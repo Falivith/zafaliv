@@ -29,23 +29,6 @@ The project is designed for testing different components independently — retri
   - No external APIs required
   - Easy experimentation on CPU/GPU
 
----
-
-## 📂 Project Structure
-
-rag-eval/
-├── src/
-│ ├── retrieval.py # Vector retrieval with Qdrant
-│ ├── generation.py # LLM generation component
-│ ├── evaluation_ragas.py # RAGAS evaluation (optional)
-│ ├── evaluation_judge.py # LLM-judge evaluation (optional)
-│ ├── vector_db_manager.py # Qdrant storage manager
-│ ├── pipeline.py # Combined RAG pipeline
-│ └── main.py # Example usage
-├── qdrant_data/ # Local Qdrant storage (ignored in Git)
-├── pyproject.toml
-└── README.md
-
 ## Run It
 
 ```bash
