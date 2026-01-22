@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "texto_base": "Observe a imagem que mostra um problema ambiental comum em grandes cidades.",
+    "enunciado": "Qual alternativa indica uma ação humana que contribui para esse problema?",
+    "alternativas": {
+      "A": "Tratamento adequado de esgotos.",
+      "B": "Separação correta do lixo reciclável.",
+      "C": "Despejo de lixo e resíduos industriais nos rios.",
+      "D": "Utilização de transporte público."
+    }
+  },
+  {
+    "id": 2,
+    "texto_base": "A água é um recurso essencial para a vida e para muitas atividades diárias.",
+    "enunciado": "Cite três usos da água no seu dia a dia e escreva duas maneiras de evitar o desperdício desse recurso na sua casa ou na escola.",
+    "alternativas": null
+  },
+  {
+    "id": 3,
+    "texto_base": "Durante uma visita à feira de ciências, alunos observaram três experimentos: (1) captação da água da chuva para regar plantas; (2) brinquedos feitos com garrafas PET e papelão; (3) uso de sacolas reutilizáveis em vez de plásticas.",
+    "enunciado": "Qual a principal ideia comum entre os três grupos, e por que ela é importante para o uso sustentável dos recursos naturais?",
+    "alternativas": {
+      "A": "Mostrar que é possível brincar sem gastar dinheiro.",
+      "B": "Ensinar como utilizar produtos industrializados no dia a dia.",
+      "C": "Destacar maneiras de reduzir o consumo e reutilizar materiais para evitar desperdício.",
+      "D": "Promover o uso de água potável em todas as situações, inclusive na limpeza de calçadas."
+    }
+  },
+  {
+    "id": 4,
+    "texto_base": "Em uma escola, adotaram-se medidas como trocar copos descartáveis por copos reutilizáveis, instalar torneiras temporizadas e usar os dois lados do papel antes de descartá-lo.",
+    "enunciado": "Qual alternativa explica corretamente o impacto dessas ações no meio ambiente?",
+    "alternativas": {
+      "A": "Aumentam a quantidade de lixo produzido e o consumo de energia.",
+      "B": "Reduzem o desperdício de água e materiais, preservando recursos naturais.",
+      "C": "Diminuem gastos da escola, mas sem benefícios para a natureza.",
+      "D": "Apenas facilitam o trabalho da limpeza, sem relação com meio ambiente."
+    }
+  },
+  {
+    "id": 5,
+    "texto_base": "Observe a imagem referente à coleta seletiva de resíduos.",
+    "enunciado": "Qual é o benefício da separação correta do lixo para reciclagem?",
+    "alternativas": {
+      "A": "Aumentar a quantidade de lixo nos aterros sanitários.",
+      "B": "Diminuir o número de coletores de lixo nas cidades.",
+      "C": "Gastar mais água no tratamento de resíduos.",
+      "D": "Reduzir a extração de recursos naturais e a poluição ambiental."
+    }
+  },
+  {
+    "id": 6,
+    "texto_base": "Um esquema ilustra diferentes fontes de energia e seus usos (números indicam cada fonte). (Contexto: Números 1 a 3 referem-se a petróleo, carvão e gás natural. Números 4 a 9 referem-se a biomassa, eólica, hídrica, etc.)",
+    "enunciado": "Quais números correspondem apenas a fontes renováveis?",
+    "alternativas": {
+      "A": "1 a 3, apenas.",
+      "B": "2 a 5, apenas.",
+      "C": "3 a 6, apenas.",
+      "D": "4 a 9, apenas."
+    }
+  },
+  {
+    "id": 7,
+    "texto_base": "Leia o texto a seguir intitulado 'A Nova Pirâmide Alimentar' (descrição de grupos alimentares). (Considere o texto base sobre alimentação saudável e exercícios).",
+    "enunciado": "Qual das alternativas indica a principal orientação defendida no texto?",
+    "alternativas": null
+  },
+  {
+    "id": 8,
+    "texto_base": "Ana, 10 anos, come muitos alimentos industrializados (salgadinhos, refrigerantes), quase não come frutas e verduras e passa horas em atividades sedentárias.",
+    "enunciado": "Quais problemas de saúde ela pode enfrentar devido a esses hábitos?",
+    "alternativas": null
+  },
+  {
+    "id": 9,
+    "texto_base": "Uma especialista foi convidada a explicar formas de prevenir uma infecção sexualmente transmissível causada por vírus.",
+    "enunciado": "A qual das infecções abaixo ela se refere?",
+    "alternativas": {
+      "A": "Candidíase - causada por fungo Candida albicans, provoca coceira e inflamação genital.",
+      "B": "Gonorreia - causada pela bactéria Neisseria gonorrhoeae, provoca corrimento e dor ao urinar.",
+      "C": "AIDS (Síndrome da Imunodeficiência Adquirida) - causada pelo vírus HIV, que ataca as células de defesa do sangue.",
+      "D": "Herpes genital - causada pelo vírus HSV, provoca lesões doloridas na região genital."
+    }
+  },
+  {
+    "id": 10,
+    "texto_base": "De acordo com um texto sobre campanha de vacinação contra poliomielite...",
+    "enunciado": "Por que a vacina é a principal medida de prevenção dessa doença?",
+    "alternativas": {
+      "A": "Porque produz anticorpos genéricos (imunização passiva).",
+      "B": "Porque induz o organismo a produzir anticorpos específicos, desenvolvendo imunidade ativa.",
+      "C": "Porque estimula citocinas inflamatórias que combatem toxinas do vírus.",
+      "D": "Porque combate diretamente o vírus com substâncias pré-desenvolvidas."
+    }
+  },
+  {
+    "id": 11,
+    "texto_base": "Um texto descreve uma proposta de criar áreas de proteção prioritárias na Amazônia para evitar extinções.",
+    "enunciado": "Qual é o objetivo dessas áreas segundo o texto?",
+    "alternativas": {
+      "A": "Criar ambientes artificiais controlados para reprodução de espécies fora da floresta.",
+      "B": "Isolar animais e plantas ameaçados do restante da floresta.",
+      "C": "Criar zonas protegidas da ação humana (como desmatamento e agropecuária) para preservar a biodiversidade local.",
+      "D": "Combater diretamente espécies ameaçadas para evitar perdas (Nota: verificar gabarito para interpretação correta do texto base)."
+    }
+  },
+  {
+    "id": 12,
+    "texto_base": "Após ler exemplos de plantas que liberam substâncias químicas para atrair certos insetos benéficos...",
+    "enunciado": "Foi perguntado: esse tipo de comunicação contribui para quê?",
+    "alternativas": {
+      "A": "A extinção de espécies predadoras.",
+      "B": "Rivalidade entre espécies de insetos.",
+      "C": "Competição entre plantas.",
+      "D": "Cooperação/co-evolução entre as espécies (plantas e insetos)."
+    }
+  },
+  {
+    "id": 13,
+    "texto_base": "Durante dois meses, uma turma observou e registrou as formas da Lua no céu (cheia, minguante, nova, crescente). Eles perceberam que após algum tempo as fases se repetiam na mesma ordem.",
+    "enunciado": "O que essa observação mostra?",
+    "alternativas": {
+      "A": "Que a Lua muda de forma por causa do Sol girando ao redor da Terra.",
+      "B": "Que as fases da Lua acontecem aleatoriamente, sem repetição.",
+      "C": "Que as fases da Lua seguem uma ordem e se repetem em um ciclo regular.",
+      "D": "Que a Lua muda de cor conforme o tempo passa."
+    }
+  },
+  {
+    "id": 14,
+    "texto_base": "Dado um texto explicando que a Lua Crescente ocorre logo após a Lua Nova, aparecendo como um arco fino em forma de \"C\" no céu.",
+    "enunciado": "É possível afirmar que a representação mostrada está em qual fase da Lua?",
+    "alternativas": {
+      "A": "Crescente.",
+      "B": "Cheia.",
+      "C": "Minguante.",
+      "D": "Nova."
+    }
+  },
+  {
+    "id": 15,
+    "texto_base": "As estações de verão e inverno começam nos solstícios (quando o Sol atinge posição máxima ou mínima no céu), e primavera/outono nos equinócios.",
+    "enunciado": "Por que as datas exatas de início das estações variam a cada ano?",
+    "alternativas": {
+      "A": "Devido à interferência da inclinação da órbita da Lua.",
+      "B": "Pelo aumento gradual da distância Terra-Sol ao longo dos anos.",
+      "C": "Pela posição da Terra no Sistema Solar, que varia seu afastamento do Sol.",
+      "D": "Devido ao movimento de translação da Terra combinado com a inclinação do seu eixo, fazendo com que a ocorrência exata dos solstícios/equinócios tenha variações de data."
+    }
+  },
+  {
+    "id": 16,
+    "texto_base": "Com base em um texto sobre forças gravitacionais da Lua...",
+    "enunciado": "Ao observar que uma determinada região litorânea está em maré alta visível, o que está ocorrendo nessa situação?",
+    "alternativas": {
+      "A": "A Lua está em ângulo reto (90°) em relação ao Sol.",
+      "B": "A força gravitacional da Lua é nula naquela região.",
+      "C": "A região está a 90° em relação à posição da Lua.",
+      "D": "A região está \"abaixo\" da Lua, aproximadamente em alinhamento (180°) com ela, recebendo maior atração gravitacional e portanto maré alta."
+    }
+  },
+  {
+    "id": 17,
+    "texto_base": "Um texto descreveu as condições de um eclipse lunar total ocorrido em 2015.",
+    "enunciado": "Quais são as posições dos astros nesse fenômeno?",
+    "alternativas": {
+      "A": "A Terra fica entre o Sol e a Lua, na interseção da órbita lunar com a terrestre (Lua entra na sombra da Terra).",
+      "B": "A Terra fica entre o Sol e a Lua, mas no ponto mais distante da órbita solar.",
+      "C": "O Sol fica entre a Terra e a Lua.",
+      "D": "A Lua fica entre o Sol e a Terra."
+    }
+  },
+  {
+    "id": 18,
+    "texto_base": "Um texto explica que o etanol combustível pode ser produzido a partir de um subproduto líquido da fabricação de cachaça (mistura homogênea de álcool e água).",
+    "enunciado": "Qual método de separação de misturas é utilizado para obter o etanol desse subproduto?",
+    "alternativas": {
+      "A": "Filtração.",
+      "B": "Destilação.",
+      "C": "Decantação.",
+      "D": "Sedimentação."
+    }
+  },
+  {
+    "id": 19,
+    "texto_base": "Radiação ionizante consiste em ondas eletromagnéticas acima da região ultravioleta, com energia suficiente para arrancar elétrons de átomos (ionização). Exemplos: raios X em tomografias e radioterapia.",
+    "enunciado": "Quanto aos riscos dessa radiação para a saúde humana em doses altas, é correto afirmar que:",
+    "alternativas": {
+      "A": "Alterações celulares causadas por ela não provocam mutações genéticas.",
+      "B": "Dependendo da intensidade, podem levar ao desenvolvimento de vários tipos de câncer.",
+      "C": "Por serem de baixa frequência, não causam queimaduras na pele.",
+      "D": "Efeitos genéticos causados por essa radiação não se transmitem a gerações futuras."
+    }
+  },
+  {
+    "id": 20,
+    "texto_base": "Um texto afirma que certas plantas da Amazônia dominam a captura de gás carbônico.",
+    "enunciado": "Por qual processo as plantas assimilam o gás carbônico no ciclo do carbono?",
+    "alternativas": {
+      "A": "Glicólise.",
+      "B": "Fotossíntese.",
+      "C": "Quimiossíntese.",
+      "D": "Respiração vegetal."
+    }
+  },
+  {
+    "id": 21,
+    "texto_base": "Um texto menciona uma nova enzima descoberta que pode tratar duas doenças metabólicas diferentes (por exemplo, diabetes tipo 2 e hipotireoidismo).",
+    "enunciado": "Qual característica essas duas doenças têm em comum?",
+    "alternativas": {
+      "A": "Ambas são doenças crônicas (de longa duração).",
+      "B": "Ambas são genéticas dominantes.",
+      "C": "Ambas são causadas por agentes infecciosos.",
+      "D": "Ambas são doenças neurodegenerativas."
+    }
+  },
+  {
+    "id": 22,
+    "texto_base": "Um texto alerta para o aumento do buraco na camada de ozônio.",
+    "enunciado": "Quais impactos esse fenômeno pode trazer à saúde humana?",
+    "alternativas": {
+      "A": "Danos ósseos, problemas digestivos, rompimento de tendões.",
+      "B": "Doenças crônicas não transmissíveis (hipertensão, diabetes, cânceres variados).",
+      "C": "Maior incidência de câncer de pele, catarata ocular e queda na imunidade.",
+      "D": "Câncer de pele e aumento de câncer de útero/ovário."
+    }
+  },
+  {
+    "id": 23,
+    "texto_base": "Monumentos de mármore sofrem corrosão com o tempo. Sabe-se que chuvas ácidas contribuem para isso.",
+    "enunciado": "Como se formam as chuvas ácidas?",
+    "alternativas": {
+      "A": "Íons H naturais na atmosfera produzem chuva ácida espontaneamente, intensificada em baixas altitudes.",
+      "B": "Óxidos de enxofre (SO2) e nitrogênio (NOx) emitidos pela queima de combustíveis reagem com a água nas nuvens, formando ácido sulfúrico e nítrico, que precipitam.",
+      "C": "Gases vulcânicos (SO2) reagem com oxigênio formando compostos ácidos que caem com a chuva.",
+      "D": "O ozônio atmosférico interage com poluentes urbanos gerando precipitações ácidas."
+    }
+  }
+]

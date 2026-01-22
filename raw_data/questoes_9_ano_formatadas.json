@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "texto_base": "As redes sociais se tornaram parte essencial da vida cotidiana. Muitos defendem que elas aproximam as pessoas, permitindo que amigos e familiares se comuniquem a qualquer momento. No entanto, há quem argumente que o excesso de tempo nelas pode prejudicar o convívio social real.",
+    "enunciado": "Com base no texto, qual é a tese principal apresentada?",
+    "alternativas": {
+      "A": "As redes sociais são utilizadas apenas para o entretenimento.",
+      "B": "O uso excessivo das redes sociais pode prejudicar a interação presencial.",
+      "C": "As redes sociais são mais importantes do que a convivência real.",
+      "D": "Todas as pessoas devem abandonar o uso das redes sociais."
+    }
+  },
+  {
+    "id": 2,
+    "texto_base": "A implementação de políticas públicas para a preservação do meio ambiente deve ser uma prioridade do governo. O desmatamento na Amazônia atingiu índices alarmantes nos últimos anos, comprometendo a biodiversidade e o equilíbrio climático global.",
+    "enunciado": "Sobre o trecho, é correto afirmar que",
+    "alternativas": {
+      "A": "todo o trecho apresenta fatos, pois trata de dados ambientais.",
+      "B": "\"o desmatamento na Amazônia atingiu índices alarmantes\" é um fato, enquanto \"deve ser uma prioridade do governo\" expressa uma opinião.",
+      "C": "\"comprometendo a biodiversidade\" é uma opinião, pois depende do ponto de vista das pessoas.",
+      "D": "o trecho não contém fatos, apenas argumentos baseados em crenças individuais."
+    }
+  },
+  {
+    "id": 3,
+    "texto_base": "O desperdício de alimentos é um problema global. Estima-se que um terço da produção mundial de comida seja descartado. Ao mesmo tempo, milhões de pessoas passam fome. Para reduzir esse desperdício, é essencial conscientizar a população sobre compras responsáveis e incentivar doações para quem precisa.",
+    "enunciado": "Qual é o posicionamento do autor em relação ao desperdício de alimentos?",
+    "alternativas": {
+      "A": "O desperdício de alimentos é um problema global e deve ser combatido.",
+      "B": "O desperdício de alimentos não é tão grave, pois há muita produção no mundo.",
+      "C": "As pessoas deveriam comprar mais alimentos para evitar a fome no mundo.",
+      "D": "O desperdício de alimentos é inevitável e não há como reduzi-lo."
+    }
+  },
+  {
+    "id": 4,
+    "texto_base": "A prática de exercícios físicos é fundamental para a saúde. Correr, nadar ou andar de bicicleta são ótimas opções. Além disso, uma alimentação equilibrada, com frutas e verduras, complementa os benefícios.",
+    "enunciado": "Qual a principal opinião defendida no texto?",
+    "alternativas": {
+      "A": "A prática de exercícios físicos é fundamental para a saúde.",
+      "B": "Correr, nadar ou andar de bicicleta são ótimas opções de exercícios.",
+      "C": "Uma alimentação equilibrada complementa os benefícios dos exercícios.",
+      "D": "Frutas e verduras são importantes para a saúde."
+    }
+  },
+  {
+    "id": 5,
+    "texto_base": "Seiscentos e Sessenta e Seis (Mario Quintana)\n\nA vida é uns deveres que nós trouxemos para fazer em casa.\nQuando se vê, já são 6 horas…\nQuando se vê, já é 6.ª feira…\nQuando se vê, passaram 60 anos…\nAgora, é tarde demais para ser reprovado…\nE se me dessem – um dia – uma outra oportunidade,\neu nem olhava o relógio.\nseguia sempre, sempre em frente …\nE iria jogando pelo caminho a casca dourada e inútil das horas.",
+    "enunciado": "O poema apresenta uma reflexão sobre a passagem do tempo. Qual das frases abaixo melhor resume a tese do poema?",
+    "alternativas": {
+      "A": "A vida é repleta de oportunidades para quem sabe aproveitar o tempo.",
+      "B": "O tempo passa de maneira imperceptível, e muitas vezes nos damos conta disso tarde demais.",
+      "C": "A pressa é necessária para alcançar os objetivos da vida.",
+      "D": "O segredo da vida é seguir todas as regras e evitar erros."
+    }
+  },
+  {
+    "id": 6,
+    "texto_base": "(Texto da Charge): O melhor celular do mundo acaba de ser lançado! Você precisa trocar o seu!",
+    "enunciado": "Com base na charge, qual crítica pode ser identificada?",
+    "alternativas": {
+      "A": "As pessoas precisam de celulares novos constantemente para acompanhar a tecnologia.",
+      "B": "O consumo excessivo impulsionado pela publicidade gera desperdício eletrônico.",
+      "C": "Os celulares antigos não funcionam bem e devem ser descartados rapidamente.",
+      "D": "A produção de lixo eletrônico não é um problema ambiental significativo."
+    }
+  },
+  {
+    "id": 7,
+    "texto_base": "Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o Brasil é um dos maiores países do mundo em extensão territorial, com uma área de aproximadamente 8,5 milhões de quilômetros quadrados. Além disso, é um país encantador, cheio de belezas naturais e uma cultura vibrante.",
+    "enunciado": "Com base no trecho, assinale a alternativa que distingue corretamente fato de opinião:",
+    "alternativas": {
+      "A": "o trecho apresenta apenas fatos, pois todas as informações podem ser verificadas.",
+      "B": "o Brasil é um dos maiores países do mundo em extensão territorial é um fato, enquanto é um país encantador expressa uma opinião.",
+      "C": "uma cultura vibrante é um fato, pois pode ser comprovado por meio de pesquisas.",
+      "D": "aproximadamente 8,5 milhões de quilômetros quadrados é uma opinião, pois depende da percepção das pessoas."
+    }
+  },
+  {
+    "id": 8,
+    "texto_base": "Marina sempre foi uma aluna aplicada, por isso ficou desapontada ao ver sua nota abaixo da média.",
+    "enunciado": "No trecho, a palavra \"desapontada\" pode ser substituída, sem alterar o sentido, por:",
+    "alternativas": {
+      "A": "animada.",
+      "B": "frustrada.",
+      "C": "confusa.",
+      "D": "indiferente."
+    }
+  },
+  {
+    "id": 9,
+    "texto_base": "O filme Vingadores: Ultimato arrecadou bilhões de dólares em bilheteria, tornando-se um dos maiores sucessos de todos os tempos. Os efeitos especiais são impressionantes, e a trama prende a atenção do público do início ao fim. No entanto, algumas pessoas acharam o filme muito longo e com excesso de cenas de ação.",
+    "enunciado": "No texto, qual trecho apresenta uma opinião sobre o filme?",
+    "alternativas": {
+      "A": "O filme 'Vingadores: Ultimato' arrecadou bilhões de dólares em bilheteria.",
+      "B": "Algumas pessoas acharam o filme muito longo e com excesso de cenas de ação.",
+      "C": "O filme se tornou um dos maiores sucessos de bilheteria de todos os tempos.",
+      "D": "Os efeitos especiais foram amplamente elogiados pela crítica."
+    }
+  },
+  {
+    "id": 10,
+    "texto_base": "Durante a reunião, Carlos tentou amenizar a tensão no ambiente com um comentário bem-humorado.",
+    "enunciado": "No contexto, o termo \"amenizar\" significa",
+    "alternativas": {
+      "A": "aumentar a intensidade de algo.",
+      "B": "reduzir a gravidade de uma situação.",
+      "C": "provocar ainda mais tensão.",
+      "D": "ignorar completamente o problema."
+    }
+  },
+  {
+    "id": 11,
+    "texto_base": "Segundo Gonçalves (2014, p. 16), 'a Psicanálise diz que tudo que nos chama atenção e nos interessa fica na nossa mente, jamais é esquecido, principalmente a palavra escrita, daí a valorização de saber ler e escrever'. Em vista disso, praticar o ato de ler para as crianças, mesmo que elas não saibam decodificar o código escrito, é uma tarefa de grande valia, no sentido de que ela estimula o seu desenvolvimento cognitivo.",
+    "enunciado": "Com base no trecho, assinale a alternativa correta sobre a distinção entre fato e opinião:",
+    "alternativas": {
+      "A": "\"A Psicanálise diz que tudo que nos chama atenção e nos interessa fica na nossa mente\" é um fato, pois se baseia em uma área do conhecimento.",
+      "B": "\"Praticar o ato de ler para as crianças [...] é uma tarefa de grande valia\" expressa uma opinião, pois valoriza essa prática com base em um julgamento subjetivo.",
+      "C": "\"Estimula o seu desenvolvimento cognitivo\" é uma opinião, pois depende da percepção individual sobre os efeitos da leitura.",
+      "D": "\"A valorização de saber ler e escrever\" é um fato, pois todas as sociedades reconhecem a importância da leitura e da escrita."
+    }
+  },
+  {
+    "id": 12,
+    "texto_base": "Mariana caminhava apressada pela calçada, segurando um grande guardachuva. Mesmo assim, algumas gotas de chuva escapavam pelas laterais e molhavam sua roupa. Ao chegar ao ponto de ônibus, suspirou aliviada ao ver que ele ainda não havia passado.",
+    "enunciado": "O que pode ser inferido sobre Mariana?",
+    "alternativas": {
+      "A": "Mariana estava atrasada e perdeu o ônibus.",
+      "B": "Mariana tentou se proteger da chuva, mas acabou se molhando um pouco.",
+      "C": "Mariana tinha receio de perder o ônibus.",
+      "D": "Mariana não queria esperar muito tempo pelo ônibus."
+    }
+  },
+  {
+    "id": 13,
+    "texto_base": "O professor olhou para a turma e sorriu. Colocou os livros sobre a mesa e, sem dizer uma palavra, pegou um giz e escreveu no quadro: 'Hoje aprenderemos uma lição valiosa'. Alguns alunos se entreolharam, curiosos. Outros pegaram seus cadernos e começaram a anotar.",
+    "enunciado": "Com base no comportamento do professor, podemos inferir que ele",
+    "alternativas": {
+      "A": "gosta de manter um clima de mistério para despertar o interesse dos alunos.",
+      "B": "prefere ensinar por meio de exercícios escritos em vez de explicações verbais.",
+      "C": "quer testar o conhecimento prévio dos alunos antes de iniciar a explicação.",
+      "D": "costuma deixar os alunos descobrirem sozinhos os temas das aulas."
+    }
+  },
+  {
+    "id": 14,
+    "texto_base": "Soneto de Fidelidade (Vinicius de Moraes)\n\nDe tudo, ao meu amor serei atento\nAntes, e com tal zelo, e sempre, e tanto\nQue mesmo em face do maior encanto\nDele se encante mais meu pensamento.\n\nQuero vivê-lo em cada vão momento\nE em louvor hei de espalhar meu canto\nE rir meu riso e derramar meu pranto\nAo seu pesar ou seu contentamento.\n\nE assim, quando mais tarde me procure\nQuem sabe a morte, angústia de quem vive\nQuem sabe a solidão, fim de quem ama\n\nEu possa me dizer do amor (que tive):\nQue não seja imortal, posto que é chama\nMas que seja infinito enquanto dure.",
+    "enunciado": "No poema, o eu lírico expressa seus sentimentos em relação ao amor. Qual das alternativas abaixo melhor representa a ideia principal do poema?",
+    "alternativas": {
+      "A": "O eu lírico acredita que o amor deve ser eterno e durar para sempre.",
+      "B": "O eu lírico deseja viver intensamente o amor enquanto ele existir.",
+      "C": "O eu lírico teme que a solidão e a morte possam afastá-lo do seu amor.",
+      "D": "O eu lírico acha que o amor verdadeiro nunca acaba, mesmo depois da morte."
+    }
+  },
+  {
+    "id": 15,
+    "texto_base": "Soneto de Fidelidade (Vinicius de Moraes)\n\nDe tudo, ao meu amor serei atento\nAntes, e com tal zelo, e sempre, e tanto\nQue mesmo em face do maior encanto\nDele se encante mais meu pensamento.\n\nQuero vivê-lo em cada vão momento\nE em louvor hei de espalhar meu canto\nE rir meu riso e derramar meu pranto\nAo seu pesar ou seu contentamento.\n\nE assim, quando mais tarde me procure\nQuem sabe a morte, angústia de quem vive\nQuem sabe a solidão, fim de quem ama\n\nEu possa me dizer do amor (que tive):\nQue não seja imortal, posto que é chama\nMas que seja infinito enquanto dure.",
+    "enunciado": "A última estrofe do poema traz a ideia de que o amor não precisa ser eterno, mas deve ser vivido intensamente. Considerando essa visão, qual é a relação entre o eu lírico e a brevidade do amor?",
+    "alternativas": {
+      "A": "O eu lírico lamenta que o amor não possa ser eterno e se entristece com essa realidade.",
+      "B": "O eu lírico aceita que o amor é passageiro e valoriza cada momento vivido com intensidade.",
+      "C": "O eu lírico acredita que a única forma de amor verdadeiro é aquele que dura para sempre.",
+      "D": "O eu lírico deseja encontrar um amor eterno, pois teme a solidão e a morte"
+    }
+  },
+  {
+    "id": 16,
+    "texto_base": "A poesia é uma forma de expressão artística que utiliza a linguagem para transmitir sentimentos, emoções e ideias. Por meio do uso de recursos estilísticos, como rimas, metáforas e figuras de linguagem, os poetas criam textos que são apreciados pela sonoridade e pela beleza das palavras.",
+    "enunciado": "Qual é o principal objetivo da poesia, de acordo com o trecho lido?",
+    "alternativas": {
+      "A": "Ensinar regras gramaticais de forma criativa.",
+      "B": "Informar sobre acontecimentos históricos importantes.",
+      "C": "Transmitir sentimentos, emoções e ideias através da linguagem.",
+      "D": "Descrever paisagens naturais com riqueza de detalhes."
+    }
+  },
+  {
+    "id": 17,
+    "texto_base": "José (Carlos Drummond de Andrade)\n\nE agora, José? A festa acabou,\na luz apagou,\no povo sumiu,\na noite esfriou,\ne agora, José?\ne agora, você?\nvocê que é sem nome,\nque zomba dos outros,\nvocê que faz versos,\nque ama, protesta?\ne agora, José?\nEstá sem mulher,\nestá sem discurso,\nestá sem carinho,\njá não pode beber,\njá não pode fumar,\ncuspir já não pode,\na noite esfriou,\no dia não veio,\no bonde não veio,\no riso não veio,\nnão veio a utopia\ne tudo acabou\ne tudo fugiu\ne tudo mofou,\ne agora, José?\nE agora, José?\nsua doce palavra,\nseu instante de febre,\nsua gula e jejum,\nsua biblioteca,\nsua lavra de ouro,\nseu terno de vidro,\nsua incoerência,\nseu ódio, – e agora?\nCom a chave na mão\nquer abrir a porta,\nnão existe porta;\nquer morrer no mar,\nmas o mar secou;\nquer ir para Minas,\nMinas não há mais.\nJosé, e agora?\nSe você gritasse,\nse você gemesse,\nse você tocasse,\na valsa vienense,\nse você dormisse,\nse você cansasse,\nse você morresse...\nMas você não morre,\nvocê é duro, José!\nSozinho no escuro\nqual bicho-do-mato,\nsem teogonia,\nsem parede nua\npara se encostar,\nsem cavalo preto\nque fuja a galope,\nvocê marcha, José!\nJosé, para onde?",
+    "enunciado": "No poema, José se encontra em uma situação difícil e sem saída. O que pode ser inferido sobre seu estado emocional?",
+    "alternativas": {
+      "A": "José está feliz por ter muitas opções de escolha.",
+      "B": "José sente-se perdido e sem perspectiva.",
+      "C": "José está tranquilo e confiante no futuro.",
+      "D": "José tem um plano claro para seguir sua vida."
+    }
+  },
+  {
+    "id": 18,
+    "texto_base": "José (Carlos Drummond de Andrade)\n\nE agora, José? A festa acabou,\na luz apagou,\no povo sumiu,\na noite esfriou,\ne agora, José?\ne agora, você?\nvocê que é sem nome,\nque zomba dos outros,\nvocê que faz versos,\nque ama, protesta?\ne agora, José?\nEstá sem mulher,\nestá sem discurso,\nestá sem carinho,\njá não pode beber,\njá não pode fumar,\ncuspir já não pode,\na noite esfriou,\no dia não veio,\no bonde não veio,\no riso não veio,\nnão veio a utopia\ne tudo acabou\ne tudo fugiu\ne tudo mofou,\ne agora, José?\nE agora, José?\nsua doce palavra,\nseu instante de febre,\nsua gula e jejum,\nsua biblioteca,\nsua lavra de ouro,\nseu terno de vidro,\nsua incoerência,\nseu ódio, – e agora?\nCom a chave na mão\nquer abrir a porta,\nnão existe porta;\nquer morrer no mar,\nmas o mar secou;\nquer ir para Minas,\nMinas não há mais.\nJosé, e agora?\nSe você gritasse,\nse você gemesse,\nse você tocasse,\na valsa vienense,\nse você dormisse,\nse você cansasse,\nse você morresse...\nMas você não morre,\nvocê é duro, José!\nSozinho no escuro\nqual bicho-do-mato,\nsem teogonia,\nsem parede nua\npara se encostar,\nsem cavalo preto\nque fuja a galope,\nvocê marcha, José!\nJosé, para onde?",
+    "enunciado": "A repetição do questionamento \"E agora, José?\" ao longo do poema reforça qual sentimento do eu lírico?",
+    "alternativas": {
+      "A": "A sensação de angústia e incerteza diante da falta de perspectiva.",
+      "B": "A esperança de que José encontre um novo caminho para seguir.",
+      "C": "O desejo de que José se torne uma pessoa mais feliz e realizada.",
+      "D": "A certeza de que José logo encontrará uma solução para seus problemas."
+    }
+  },
+  {
+    "id": 19,
+    "texto_base": "José (Carlos Drummond de Andrade)\n\nE agora, José? A festa acabou,\na luz apagou,\no povo sumiu,\na noite esfriou,\ne agora, José?\ne agora, você?\nvocê que é sem nome,\nque zomba dos outros,\nvocê que faz versos,\nque ama, protesta?\ne agora, José?\nEstá sem mulher,\nestá sem discurso,\nestá sem carinho,\njá não pode beber,\njá não pode fumar,\ncuspir já não pode,\na noite esfriou,\no dia não veio,\no bonde não veio,\no riso não veio,\nnão veio a utopia\ne tudo acabou\ne tudo fugiu\ne tudo mofou,\ne agora, José?\nE agora, José?\nsua doce palavra,\nseu instante de febre,\nsua gula e jejum,\nsua biblioteca,\nsua lavra de ouro,\nseu terno de vidro,\nsua incoerência,\nseu ódio, – e agora?\nCom a chave na mão\nquer abrir a porta,\nnão existe porta;\nquer morrer no mar,\nmas o mar secou;\nquer ir para Minas,\nMinas não há mais.\nJosé, e agora?\nSe você gritasse,\nse você gemesse,\nse você tocasse,\na valsa vienense,\nse você dormisse,\nse você cansasse,\nse você morresse...\nMas você não morre,\nvocê é duro, José!\nSozinho no escuro\nqual bicho-do-mato,\nsem teogonia,\nsem parede nua\npara se encostar,\nsem cavalo preto\nque fuja a galope,\nvocê marcha, José!\nJosé, para onde?",
+    "enunciado": "No trecho \"Com a chave na mão quer abrir a porta, não existe porta\", o que essa imagem metafórica sugere sobre a situação de José?",
+    "alternativas": {
+      "A": "José perdeu sua casa e não tem onde morar.",
+      "B": "José tem oportunidades, mas não sabe como aproveitá-las.",
+      "C": "José busca uma saída para seus problemas, mas não encontra solução.",
+      "D": "José está preso dentro de um espaço fechado e não consegue sair."
+    }
+  },
+  {
+    "id": 20,
+    "texto_base": "\"Depois de horas caminhando sob o sol escaldante, João sentia-se exausto e ansiava por um gole de água fresca.\"",
+    "enunciado": "No trecho, a expressão \"sol escaldante\" significa",
+    "alternativas": {
+      "A": "sol fraco, que não aquece muito.",
+      "B": "sol intenso, que causa grande calor.",
+      "C": "sol escondido entre as nuvens.",
+      "D": "sol agradável e refrescante."
+    }
+  },
+  {
+    "id": 21,
+    "texto_base": "Belo Horizonte (MG) A capital mineira, com cerca de 2,5 milhões de habitantes na região metropolitana, é famosa por sua gastronomia e vida cultural ativa. No entanto, o custo de vida tem subido nos últimos anos, exigindo planejamento financeiro dos moradores. Entre as atrações locais, destacam-se a Lagoa da Pampulha, o Mercado Central e a Praça da Liberdade. O aumento dos preços faz de Belo Horizonte uma das cidades mais caras do Brasil, especialmente em bairros centrais.",
+    "enunciado": "Considerando o texto sobre Belo Horizonte, qual das seguintes afirmações combina um fato comprovado com uma opinião específica e identificável no texto?",
+    "alternativas": {
+      "A": "Belo Horizonte possui 2,5 milhões de habitantes e a culinária da cidade é a mais sofisticada do país.",
+      "B": "O custo de vida em Belo Horizonte aumentou e, por isso, a cidade exige um planejamento financeiro maior para os moradores.",
+      "C": "A Lagoa da Pampulha é uma atração local e a vida noturna da cidade é a mais agitada do Brasil.",
+      "D": "O Mercado Central é um ponto turístico e os eventos culturais da cidade são os mais diversos do país."
+    }
+  },
+  {
+    "id": 22,
+    "texto_base": "Pedro olhava pela janela enquanto as nuvens escuras se acumulavam no céu. O vento soprava forte, fazendo as folhas das árvores dançarem no ar. Sentiu um arrepio e decidiu fechar todas as janelas da casa.",
+    "enunciado": "Com base no texto, o que pode ser inferido sobre a atitude de Pedro?",
+    "alternativas": {
+      "A": "Pedro fechou as janelas porque estava com frio.",
+      "B": "Pedro percebeu que uma tempestade estava se formando.",
+      "C": "Pedro não gosta de vento forte e prefere manter a casa fechada.",
+      "D": "Pedro decidiu dormir mais cedo naquela noite."
+    }
+  },
+  {
+    "id": 23,
+    "texto_base": "Viva o povo brasileiro\nO país tem fama de não cuidar da ecologia. Vide as queimadas na Amazônia. Além disso, em reciclagem de vidros o Brasil foi reprovado num ranking do Instituto Worldwatch. Assim, parece soar estranho o país bater o recorde mundial em reciclagem de latas. De cada 100 latinhas de bebida, 65 voltam para a indústria. É que há 125.000 brasileiros suando na coleta de latas usadas. Esse exército de subempregados embolsou 80 milhões de dólares em 1998.",
+    "enunciado": "Com base no texto, qual é a principal razão para o Brasil ter um alto índice de reciclagem de latas?",
+    "alternativas": {
+      "A": "O país possui uma forte política ambiental voltada para a reciclagem de metais.",
+      "B": "Os brasileiros estão cada vez mais conscientes sobre a importância da reciclagem.",
+      "C": "O alto número de pessoas que dependem da coleta de latas como fonte de renda impulsiona a reciclagem.",
+      "D": "A reciclagem de latas é uma tradição cultural no Brasil, incentivada desde a infância."
+    }
+  },
+  {
+    "id": 24,
+    "texto_base": "FURTO DE FLOR – Carlos Drummond de Andrade\n\nFurtei uma flor daquele jardim. O porteiro do edifício cochilava e eu furtei a flor. Trouxe-a para casa e coloquei-a no copo com água. Logo senti que ela não estava feliz. O copo destina-se a beber, e flor não é para ser bebida.\n\nPassei-a para o vaso, e notei que ela me agradecia, revelando melhor sua delicada composição. Quantas novidades há numa flor, se a contemplarmos bem. Sendo autor do furto, eu assumira a obrigação de conservá-la. Renovei a água do vaso, mas a flor empalidecia. Temi por sua vida. Não adiantava restituí-la ao jardim. Nem apelar para o médico das flores. Eu a furtara, eu a via morrer.\n\nJá murcha, e com a cor particular da morte, peguei-a docemente e fui depositá-la no jardim onde desabrochara. O porteiro estava atento e repreendeu-me:\n\n– Que ideia a sua, vir jogar lixo de sua casa neste jardim!",
+    "enunciado": "No desfecho da narrativa, a reação do porteiro ao ver o narrador devolver a flor murcha revela explicitamente qual das seguintes compreensões sobre a ação do narrador?",
+    "alternativas": {
+      "A": "O reconhecimento da tentativa frustrada do narrador de cuidar da flor furtada, apesar do seu estado terminal.",
+      "B": "A percepção de que o narrador estava tentando se livrar de um objeto sem valor, descartando-o no jardim alheio.",
+      "C": "A consciência de que o narrador havia furtado a flor originalmente e agora sentia remorso por sua ação.",
+      "D": "A interpretação de que o narrador demonstrava desrespeito ao jardim, utilizando-o como depósito de seus resíduos."
+    }
+  }
+]

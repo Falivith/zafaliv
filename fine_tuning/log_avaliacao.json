@@ -1,0 +1,639 @@
+[
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nMesmo quem tem experiência ao volante não se esquece do tempo em que as pernas tremiam, as mãos ficavam úmidas e a boca secava na hora de dar marcha a ré num espaço apertado ou quando aparecia um sinal fechado na ladeira. Há motoristas que, mesmo depois de rodar bastante, ainda apresentam estes sintomas.\nBoa parte deles chega a desistir de dirigir. Segundo a psicóloga Neuza Corassa, autora do livro Vença o Medo de Dirigir (Editora Gente), pelo menos 10% dos motoristas precisam de ajuda para vencer a ansiedade ao volante – um problema que pode se transformar em fobia. \"Normalmente, são pessoas que exigem muito de si mesmas e acabam desistindo de dirigir diante dos primeiros erros\", explica.\nConfira algumas recomendações da especialista:\n- Treine direção pelo menos duas vezes por semana.\n- Para algumas pessoas, entrar no carro é mais difícil que o treino propriamente dito. Não invente desculpas.\n- Não peça ajuda ao companheiro, para evitar desentendimentos. É melhor recorrer a um profissional.\n- Quando o medo provoca taquicardia, tremedeira ou falta de ar, é hora de procurar um psicólogo.\n- Há técnicas de relaxamento para baixar o nível de noradrenalina e diminuir a sensação de pânico.\n\nPergunta:\nSegundo o texto, a ansiedade ao volante atinge, sobretudo, os motoristas que\n\nAlternativas:\nA) ainda são iniciantes.\nB) dirigem muito pouco.\nC) sentem grandes fobias.\nD) deixam de treinar.\nE) exigem muito de si mesmos.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) ainda são iniciantes.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nMesmo quem tem experiência ao volante não se esquece do tempo em que as pernas tremiam, as mãos ficavam úmidas e a boca secava na hora de dar marcha a ré num espaço apertado ou quando aparecia um sinal fechado na ladeira. Há motoristas que, mesmo depois de rodar bastante, ainda apresentam estes sintomas.\n\nPergunta:\nNo trecho \"Há motoristas que, mesmo depois de rodar bastante, ainda apresentam estes sintomas\", a palavra destacada (\"rodar\") foi usada com o sentido de\n\nAlternativas:\nA) dirigir.\nB) girar.\nC) correr.\nD) movimentar.\nE) passear.",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) dirigir.\n\n### Explicação:\nO sentido de \"rod",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n\"Normalmente, são pessoas que exigem muito de si mesmas e acabam desistindo de dirigir diante dos primeiros erros\", explica.\n\nPergunta:\nExiste relação de causa e consequência no trecho\n\nAlternativas:\nA) \"Mesmo quem tem experiência ao volante não se esquece do tempo em que as pernas tremiam\".\nB) \"Há motoristas que, mesmo depois de rodar bastante, ainda apresentam esses sintomas\".\nC) \"pelo menos 10% dos motoristas precisam de ajuda para vencer a ansiedade\".\nD) \"são pessoas que exigem muito de si mesmas e acabam desistindo de dirigir diante dos primeiros erros\".\nE) \"Quando o medo provoca taquicardia [...] é hora de procurar um psicólogo\".",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) \"Mesmo quem tem experiência ao volante não se esquece do tempo",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nCultura diz respeito à humanidade como um todo e ao mesmo tempo a cada um dos povos, nações, sociedades e grupos humanos. Quando se consideram as culturas particulares que existem ou existiram, logo se constata a sua grande variação. Saber em que medida as culturas variam e quais são as razões da variedade das culturas humanas são questões que provocam muita discussão. Por enquanto quero salientar que é sempre fundamental entender os sentidos que uma realidade cultural faz para aqueles que a vivem. De fato, a preocupação em entender isso é uma importante conquista contemporânea.\n\nPergunta:\nA ideia principal do texto está contida em\n\nAlternativas:\nA) \"Cultura diz respeito à humanidade como um todo e ao mesmo tempo a cada um dos povos, nações, sociedades e grupos humanos\".\nB) \"Quando se consideram as culturas particulares que existem ou existiram, logo se constata a sua grande variação\".\nC) \"Saber em que medida as culturas variam e quais são as razões da variedade das culturas humanas são questões que provocam muita discussão\".\nD) \"Por enquanto quero salientar que é sempre fundamental entender os sentidos que uma realidade cultural faz para aqueles que a vivem\".\nE) \"De fato, a preocupação em entender isso é uma importante conquista contemporânea\".",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) \"Cultura diz respeito à humanidade como um todo e ao mesmo tempo",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nCultura diz respeito à humanidade como um todo e ao mesmo tempo a cada um dos povos, nações, sociedades e grupos humanos. Quando se consideram as culturas particulares que existem ou existiram, logo se constata a sua grande variação. Saber em que medida as culturas variam e quais são as razões da variedade das culturas humanas são questões que provocam muita discussão. Por enquanto quero salientar que é sempre fundamental entender os sentidos que uma realidade cultural faz para aqueles que a vivem. De fato, a preocupação em entender isso é uma importante conquista contemporânea.\n\nPergunta:\nA finalidade do texto, em relação à cultura, é\n\nAlternativas:\nA) conceituar.\nB) advertir.\nC) descrever.\nD) narrar.\nE) normatizar.",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) conceituar.\n\n### Referência:\nhttps://www",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nPor enquanto quero salientar que é sempre fundamental entender os sentidos que uma realidade cultural faz para aqueles que a vivem.\n\nPergunta:\nNo trecho \"Por enquanto quero salientar\", a expressão destacada estabelece uma relação de\n\nAlternativas:\nA) conclusão.\nB) consequência.\nC) finalidade.\nD) oposição.\nE) tempo.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) conclusão.\n\n### Referência:\nhttps://www.google",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nOutro dia fui a São Paulo e resolvi voltar à noite, uma noite de vento sul e chuva, tanto lá como aqui. Quando vinha para casa de táxi, encontrei um amigo e o trouxe até Copacabana; e contei a ele que lá em cima, além das nuvens, estava um luar lindo, de Lua cheia; e que as nuvens feias que cobriam a cidade eram, vistas de cima, enluaradas, colchões de sonho, alvas, uma paisagem irreal.\nDepois que o meu amigo desceu do carro, o chofer aproveitou um sinal fechado para voltar-se para mim:\n- O senhor vai desculpar, eu estava aqui a ouvir sua conversa. Mas, tem mesmo luar lá em cima?\n- Confirmei: sim, acima da nossa noite preta e enlamaçada e torpe havia uma outra — pura, perfeita e linda.\n- Mas, que coisa...\nEle chegou a pôr a cabeça fora do carro para olhar o céu fechado de chuva. Depois continuou guiando mais lentamente. Não sei se sonhava em ser aviador ou pensava em outra coisa.\n- Ora, sim senhor...\n- E, quando saltei e paguei a corrida, ele me disse um \"boa noite\" e um \"muito obrigado ao senhor\" tão sinceros, tão veementes, como se eu lhe tivesse feito um presente de rei.\n\nPergunta:\nNo final do texto, a expressão \"veementes\" sugere que as palavras do motorista demonstravam\n\nAlternativas:\nA) discrição.\nB) polidez.\nC) ênfase.\nD) ironia.\nE) ousadia.",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) discrição.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "E",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n- E, quando saltei e paguei a corrida, ele me disse um \"boa noite\" e um \"muito obrigado ao senhor\" tão sinceros, tão veementes, como se eu lhe tivesse feito um presente de rei.\n\nPergunta:\nO motorista de táxi, diante do que lhe contou o passageiro, ficou agradecido ao compreender\n\nAlternativas:\nA) a necessidade de se enfrentar as dificuldades.\nB) a possibilidade de os sonhos se tornarem reais.\nC) a existência de uma beleza, mesmo que invisível.\nD) os benefícios da chuva numa noite preta e torpe.\nE) o ânimo das pessoas quando voltam à própria terra.",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) a necessidade de se enfrentar as dificuldades.\n\n### Explicação:",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nOutro dia fui a São Paulo e resolvi voltar à noite... [...] Confirmei: sim, acima da nossa noite preta e enlamaçada e torpe havia uma outra — pura, perfeita e linda.\n\nPergunta:\nO trecho em que o autor apresenta uma opinião é\n\nAlternativas:\nA) \"Outro dia fui a São Paulo...\"\nB) \"Encontrei um amigo...\"\nC) \"havia uma outra (noite) pura, perfeita e linda.\"\nD) \"Ele chegou a pôr a cabeça fora do carro...\"\nE) \"... saltei e paguei a corrida...\"",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) \"Outro dia fui a São Paulo...\"\n\n### Explicação:",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nProcrastinação vem do latim procrastinatione, descrita pelos dicionários como o ato de adiar, delongar, demorar, espaçar ou, simplesmente, transferir para outro dia. E os chegados à prática são chamados de procrastinadores — o que pode, para os menos avisados, soar como um elogio.\nDo ponto de vista psicológico, a procrastinação pode ser entendida como uma dificuldade em definir prioridades a partir de elementos não emocionais. [...]\nEstá claro que é uma espécie de arte, exige algum talento. Porque não há nada de errado em deixar para depois alguma coisa. Às vezes, é isso mesmo que se tem de fazer: deixar para depois. Ora, é preciso saber gerenciar prioridades. [...]\n\nPergunta:\nO texto trata de\n\nAlternativas:\nA) adiantamento de compromissos.\nB) definição de cronogramas.\nC) execução de tarefas.\nD) gerenciamento de prioridades.\nE) resolução de problemas.",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) adiantamento de compromissos.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "D",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nE os chegados à prática são chamados de procrastinadores [...] tudo isso é bem humano — cada um sabe onde aperta o calo, como diziam nossas avós.\n\nPergunta:\nNas seguintes frases do texto Procrastinação \"E os chegados à prática são chamados de procrastinadores\" e \"cada um sabe onde aperta o calo\", o que está destacado indica que o autor usou, nessas passagens, uma linguagem\n\nAlternativas:\nA) culta.\nB) infantil.\nC) informal.\nD) poética.\nE) técnica.",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) culta.\n\n### Explicação:\nA palavra \"pro",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nEstá claro que é uma espécie de arte, exige algum talento. Porque não há nada de errado em deixar para depois alguma coisa.\n\nPergunta:\nA alternativa referente ao texto Procrastinação que contém uma opinião é\n\nAlternativas:\nA) \"Procrastinação vem do latim procrastinatione\".\nB) \"descrita pelos dicionários com o ato de adiar, delongar, demorar, espaçar\".\nC) \"E os chegados à prática são chamados de procrastinadores\".\nD) \"dificuldade em definir o que vai ser feito a partir da importância que tem\".\nE) \"Porque não há nada de errado em deixar para depois alguma coisa\".",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) \"Procrastinação vem do latim procrastinatione\".",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nConta a lenda indígena que no início era o nada. Os deuses da sabedoria esconderam todas as belezas da natureza e aguardaram. [...] \"Só depois que a última árvore for derrubada, o último peixe for morto, o último rio, envenenado, vocês vão perceber que dinheiro não se come.\" [...] Compatibilizar a vocação agrícola do Estado e seu crescimento com a preservação dos recursos naturais é difícil, mas não impossível. Convencer os fazendeiros a deixar o mato crescer em paz [...] não é tarefa fácil. A Marcha para o Oeste, iniciada em 1938 por Getúlio Vargas, desencadeou uma cultura de custo elevado e significativo na relação do homem com o meio ambiente. [...]\n\nPergunta:\nA principal ideia defendida no texto é a de que\n\nAlternativas:\nA) é difícil convencer os fazendeiros a deixar o mato crescer em paz, como pregou o maestro Jobim.\nB) convém compatibilizar a vocação agrícola do Estado e seu crescimento com a preservação dos recursos naturais.\nC) é urgente impedir as queimadas ilegais das florestas, do Pantanal e do cerrado que acontecem no Mato Grosso.\nD) foi criado e posto em prática, no governo do Mato Grosso, um sistema inovador capaz de fiscalizar a devastação.\nE) foi devastada, do ano de 1970 ao de 1999, uma área de Mato Grosso equivalente à área do Estado de São Paulo.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) é difícil convencer os fazendeiros a deixar o mato crescer em",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nA Marcha para o Oeste, iniciada em 1938 por Getúlio Vargas, desencadeou uma cultura de custo elevado e significativo na relação do homem com o meio ambiente. De 1970 até 1999, Mato Grosso foi devastado numa área equivalente à do Estado de São Paulo [...]\n\nPergunta:\nA reportagem trata da dificuldade enfrentada pelo Estado de Mato Grosso para garantir seu desenvolvimento e a preservação ambiental. Conforme o texto, essa dificuldade se justifica porque\n\nAlternativas:\nA) a cobertura vegetal é mapeada sobretudo por meio de imagens de satélite.\nB) o governo recusa-se a instituir uma nova política de controle do desmatamento.\nC) é impraticável conciliar desenvolvimento econômico e preservação ambiental.\nD) é impossível convencer os fazendeiros a respeitar e preservar a vegetação nativa.\nE) a Marcha para o Oeste gerou uma cultura de prejuízos aos recursos naturais.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) a cobertura vegetal é mapeada sobretudo por meio de imagens de satélite",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nPrudêncio, um moleque de casa, era o meu cavalo de todos os dias; punha as mãos no chão, recebia um cordel nos queixos, à guisa de freios, eu trepava-lhe ao dorso, com uma varinha na mão fustigava-o, dava mil voltas a um e outro lado, e ele obedecia – algumas vezes gemendo – mas obedecia sem dizer palavras, ou, quando muito, um –'ai, nhonhô!' – ao que se retorquia: – 'cala a boca besta!' [...]\n\nPergunta:\nCom base na expressão \"ai, nhonhô!\", pode-se afirmar que Prudêncio relaciona-se com o narrador de forma\n\nAlternativas:\nA) admirada.\nB) encolerizada.\nC) indiferente.\nD) inferiorizada.\nE) recatada.",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) admirada.\n\n### Explicação:\nA expressão \"ai",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nPor exemplo, um dia quebrei a cabeça de uma escrava, porque me negara uma colher de doce de coco que estava fazendo [...]\n\nPergunta:\nNo trecho \"um dia quebrei a cabeça de uma escrava, porque me negara uma colher de doce de coco\", a palavra \"porque\" dá ideia de\n\nAlternativas:\nA) causalidade.\nB) conclusão.\nC) consequência.\nD) finalidade.\nE) proporção.",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) causalidade.\n\n### Referência:\nhttps://pt.",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nPelé acabava de se consagrar como \"rei do futebol\", mas estava jogando muito mal naquele dia. A torcida pegava no pé do Rei, e, como o estádio era pequeno, ouvia-se cada tossida e cada saco de amendoim sendo aberto. Pelé foi ficando furioso, furioso... até que, de repente, pegou a bola, driblou a defesa inteira do Juventus e colocou a redonda no fundo da rede. Com raiva, saiu a distribuir socos no ar, gritando os mais escabrosos palavrões imagináveis.\n\nPergunta:\nPodem-se encontrar traços de informalidade em\n\nAlternativas:\nA) \"a marca registrada do jogador\".\nB) \"a imagem que marcou a vida de gerações\".\nC) \"o mais interessante talvez seja o contexto\".\nD) \"a torcida pegava no pé do Rei\".\nE) \"o estádio era pequeno, ouvia-se cada tossida\".",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) \"a marca registrada do jogador\".\nB) \"a imagem",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "E",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nPelé acabava de se consagrar como \"rei do futebol\", mas estava jogando muito mal naquele dia.\n\nPergunta:\nNa frase \"mas estava jogando muito mal naquele dia.\", a palavra destacada estabelece uma relação de\n\nAlternativas:\nA) alternância.\nB) causalidade.\nC) consequência.\nD) explicação.\nE) oposição.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) alternância.\n\n### Explicação:\nA alternativa correta é",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nA SBS – Sociedade Brasileira de Silvicultura é uma associação de âmbito nacional, de utilidade pública e sem fins lucrativos, que foi fundada em setembro de 1955 com os objetivos de: [...]\n- Apoiar ações da silvicultura de produção como vetor de crescimento econômico e social.\nFundamentada nesses objetivos e consciente da importância socioeconômica e ambiental que a atividade florestal representa para o país, a SBS atua com vistas à valorização da silvicultura como modelo de desenvolvimento sustentável.\n\nPergunta:\nDe acordo com o texto, a SBS\n\nAlternativas:\nA) apoia ações da silvicultura quando prejudicam o crescimento econômico e social.\nB) atua com vistas à valorização da silvicultura como modelo adequado de desenvolvimento.\nC) congrega todos os que se dedicam a sustentar moradores de florestas.\nD) é uma associação de âmbito nacional e visa ao lucro.\nE) trabalha independentemente de órgãos públicos e privados na elaboração de planos e programas florestais.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) apoia ações da silvicultura quando prejudicam o crescimento econô",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nA SBS – Sociedade Brasileira de Silvicultura é uma associação de âmbito nacional, de utilidade pública e sem fins lucrativos, que foi fundada em setembro de 1955 com os objetivos de: [...]\n\nPergunta:\nO texto tem por finalidade\n\nAlternativas:\nA) convidar todos os que se dedicam à formação florestal.\nB) discutir o aprimoramento da legislação florestal.\nC) estabelecer tecnologias de preservação.\nD) elaborar plano de ação para a silvicultura de produção.\nE) informar sobre a Sociedade Brasileira de Silvicultura.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) convidar todos os que se dedicam à formação florestal",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nUm estudo realizado pela nutricionista Paula Andréa Martins, da Universidade Federal de São Paulo (Unifesp), comprovou que, embora consumindo bem menos calorias do que a quantidade considerada como saudável, crianças desnutridas tendem a ser adultos obesos. [...]\n\nPergunta:\nO trecho que contém a informação principal do texto é\n\nAlternativas:\nA) \"embora consumindo bem menos calorias [...], crianças desnutridas tendem a ser adultos obesos.\"\nB) \"As crianças foram submetidas aos exames de antropometria\"\nC) \"a massa magra (músculos) do seu organismo estava sendo substituída por gordura.\"\nD) \"quando elas precisavam de energia, em vez de queimar gordura, queimavam músculo.\"\nE) \"um quadro que somente poderá ser revertido com a ingestão de uma dieta balanceada e a prática de exercícios físicos.\"",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) \"embora consumindo bem menos calorias [...], crianças des",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nUm estudo realizado pela nutricionista Paula Andréa Martins, da Universidade Federal de São Paulo (Unifesp), comprovou que, embora consumindo bem menos calorias do que a quantidade considerada como saudável, crianças desnutridas tendem a ser adultos obesos. [...] Diante disso, segundo a nutricionista, embora desnutridas, essas crianças devem chegar à idade adulta com excesso de peso – um quadro que somente poderá ser revertido com a ingestão de uma dieta balanceada e a prática de exercícios físicos.\n\nPergunta:\nO texto \"Desnutrição causa obesidade\" tem a finalidade de\n\nAlternativas:\nA) seduzir a população.\nB) advertir os leitores.\nC) ironizar uma situação.\nD) criticar os nutricionistas.\nE) apoiar os pesquisadores.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) seduzir a população.\n\n### Explicação:\nA",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] O protagonista é Antonio Biá [...] Simpático e dono de um caráter duvidoso, ele é o típico malandro com dons de oratória bacharelesca [...] quem lhe cruza o caminho é chamado de \"pokémon de Jesus\", \"abelha menstruada\" ou \"jacaré apaixonado\". Para fazer um agrado fácil, Biá diz: \"Você está um pão\". Quando a pessoa lhe dá as costas, ouvimos: \"Só não sei de que dia\". [...]\n\nPergunta:\nA frase \"Você está um pão\" caracteriza uma expressão\n\nAlternativas:\nA) literária.\nB) coloquial.\nC) formal.\nD) profissional.\nE) técnica.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) literária.\n\n### Explicação:\nA expressão literária",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] O protagonista é Antonio Biá [...] quem lhe cruza o caminho é chamado de \"pokémon de Jesus\", \"abelha menstruada\" ou \"jacaré apaixonado\". Para fazer um agrado fácil, Biá diz: \"Você está um pão\". Quando a pessoa lhe dá as costas, ouvimos: \"Só não sei de que dia\". [...]\n\nPergunta:\nAntônio Biá é um personagem irônico quando\n\nAlternativas:\nA) nomeia as pessoas de forma não usual.\nB) resolve escrever o livro de histórias.\nC) resolve falar sério e ficar famoso.\nD) torna-se simpático e brincalhão.\nE) todos desconfiam de suas habilidades.",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) nomeia as pessoas de forma não usual.\n\n### Fonte:",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nAmanhã faz um mês, ai não, a Senhora longe de casa. Primeiro dia, na verdade, falta não senti. [...] Não foi ausência por uma semana: o batom ainda no lenço, o prato na mesa por engano, a imagem de relance no espelho.\nCom os dias, Senhora, o leite primeira vez coalhou. A notícia de sua perda veio aos poucos: a pilha de jornais ali no chão, ninguém os guardou debaixo da escada. [...]\n\nPergunta:\nNo trecho \"A notícia de sua perda veio aos poucos.\", a palavra destacada (\"perda\") refere-se a\n\nAlternativas:\nA) \"verdade\".\nB) \"ausência\".\nC) \"imagem\".\nD) \"Senhora\".\nE) \"escada\".",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) \"verdade\".",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nAmanhã faz um mês, ai não, a Senhora longe de casa. [...] Toda a casa um corredor vazio, até o canário ficou mudo. [...] Senti falta da pequena briga pelo sal no tomate – meu jeito de querer bem. Acaso é saudade, Senhora? [...] Venha pra casa, Senhora, por favor.\n\nPergunta:\nO conflito que gerou o sentimento no personagem foi a\n\nAlternativas:\nA) ausência da senhora.\nB) imagem de relance no espelho.\nC) notícia da perda da Senhora.\nD) saudade da senhora.\nE) verdade desabafada.",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) ausência da senhora.",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nUm galo sozinho não tece uma manhã: ele precisará sempre de outros galos. De um que apanhe esse grito que ele e o lance a outro; de um outro galo que apanhe o grito que um galo antes e o lance a outro; e de outros galos que com muitos outros galos se cruzem os fios de sol de seus gritos de galo, para que a manhã, desde uma teia tênue, se vá tecendo, entre todos os galos. [...]\n\nPergunta:\nNo poema \"Tecendo a manhã\", é enfatizada a ideia de que\n\nAlternativas:\nA) as pessoas devem se proteger.\nB) os animais tendem a multiplicar-se.\nC) as manhãs são um tempo de luz.\nD) os homens devem ser solidários.\nE) a vida sobre a terra está traçada.",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) as pessoas devem se proteger.\n\n### Explicação:\nO",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nUm galo sozinho não tece uma manhã: ele precisará sempre de outros galos. [...] para que a manhã, desde uma teia tênue, se vá tecendo, entre todos os galos.\nE se encorpando em tela, entre todos, se erguendo tenda, onde entrem todos, se entretendendo para todos [...]\n\nPergunta:\nO tema do texto está ligado à ideia de\n\nAlternativas:\nA) igualdade.\nB) felicidade.\nC) liberdade.\nD) honestidade.\nE) solidariedade.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) igualdade.\n\n### Explicação:\nO texto fala sobre",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] A vida imita o vídeo, garotos inventam um novo inglês\nVivendo num país sedento, um momento de embriaguez\n[...]\n\nPergunta:\nDo trecho \"A vida imita o vídeo\" (v. 5) infere-se que\n\nAlternativas:\nA) a mídia interfere no agir das pessoas.\nB) a televisão retrata a realidade das pessoas.\nC) a vida cotidiana tem influência sobre a mídia.\nD) a realidade e a ficção se equivalem.\nE) o vídeo satiriza a realidade dos jovens.",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) a mídia interfere no agir das pessoas.\n\n### Explicação:",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] E tudo ficou tão claro\nO que era caro ficou comum\nComo um dia depois do outro\nComo um dia, um dia comum\n[...]\n\nPergunta:\nNo trecho \"O que era caro ficou comum como um dia depois do outro\" (v.12-13), a palavra \"como\" expressa ideia de\n\nAlternativas:\nA) causa.\nB) comparação.\nC) conformidade.\nD) consequência.\nE) finalidade.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) causa.\n\n### Explicação:\nA palavra \"como\"",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] Ele explica que muitas palavras consideradas erradas (como \"fruita\" ou \"avoar\") existem, na verdade, desde os tempos do início da colonização do Brasil. \"No sertão, onde houve menos contato com as novidades que chegavam ao litoral, o português clássico ficou mais preservado\", explica. [...]\n\nPergunta:\nO português clássico ficou mais preservado no sertão porque o\n\nAlternativas:\nA) contato com o litoral era menor.\nB) sertanejo era menos informado.\nC) sertanejo sofreu muitas influências estrangeiras.\nD) uso de palavras do início da colonização é frequente.\nE) sertão era uma região pobre.",
+    "output_esperado": "A",
+    "modelo_base": {
+      "resposta": "A) contato com o litoral era menor.\n\n### Explicação:",
+      "acertou": true
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] O livro, resultado de oito anos de pesquisa, é mais do que uma reunião de palavras e expressões: é um passeio pela história e pela cultura dessa região do país. [...]\n\nPergunta:\nHá uma opinião em\n\nAlternativas:\nA) \"No sertão, houve menos contato com as novidades\".\nB) \"palavras consideradas erradas existem desde a colonização\".\nC) \"povos que passaram pelo Nordeste deixaram marcas no vocabulário\".\nD) \"o livro é um passeio pela história e pela cultura da região\".\nE) \"o livro é resultado de oito anos de pesquisas\".",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) \"No sertão, houve menos contato com as novidades\".",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] João Brandão, o de alma virginal, não entendia assim, e lá um dia em que o Departamento Meteorológico anunciava: \"céu azul, praia, ponto facultativo\", não lhe apetecendo a casa nem as atividades lúdicas, deliberou usar de sua \"faculdade\" de assinar o ponto no Instituto Nacional da Goiaba [...]\n\nPergunta:\nDe acordo com o texto, a expressão \"alma virginal\" (l.8) sugere que João Brandão é\n\nAlternativas:\nA) bom.\nB) humilde.\nC) ingênuo.\nD) inteligente.\nE) responsável.",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) bom.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] Então é feriado, raciocina o escriturário que, justamente, tem um \"programa\" na pauta para essas emergências. Não, responde-lhe o Governo, que tem o programa de trabalhar; é consagrado, mas não é feriado. [...]\n\nPergunta:\nO emprego de aspas na palavra \"programa\" (l. 3) apresenta efeito de\n\nAlternativas:\nA) afirmação.\nB) dúvida.\nC) ênfase.\nD) esclarecimento.\nE) ironia.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) afirmação.\n\n### Explicação:\nA frase \"Não",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] Parece aquela velha e manjada reeducação alimentar, tantas vezes invocada pelo seu nutricionista. Mas é mais do que isso. Para emagrecer e manter o novo peso, Mireille Guiliano propõe um upgrade alimentar. [...]\n\nPergunta:\nNo trecho \"Parece aquela velha e manjada reeducação alimentar, tantas vezes invocada pelo seu nutricionista.\", (ℓ.16-17), o autor incorporou palavras típicas de uma linguagem\n\nAlternativas:\nA) científica.\nB) coloquial.\nC) jurídica.\nD) poética.\nE) técnica.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) científica.\n\n### Explicação:\nA palavra científica é uma",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] Por quê? Ora, porque mulheres francesas não fazem dieta. Mulheres francesas não cortam carboidrato (mulheres francesas nem sequer pronunciam essa palavra). Mulheres francesas pedem entrada, prato e sobremesa. Mulheres francesas tomam vinho. Mulheres francesas comem pão e chocolate. Mesmo assim, mulheres francesas não engordam. [...]\n\nPergunta:\nNo texto Bon appétit, a repetição da expressão \"mulheres francesas\", no segundo parágrafo, tem o efeito de\n\nAlternativas:\nA) dar ao texto um tom jovial.\nB) dar destaque às ideias.\nC) justificar uma opinião.\nD) coordenar as informações.\nE) tornar o texto compreensível.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) dar ao texto um tom jovial.\n\n### Explicação:",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] Quando vi Teresa de novo\nAchei que os olhos eram muito mais velhos que o resto do corpo\n(Os olhos nasceram e ficaram dez anos esperando que o resto do corpo nascesse)\n\nPergunta:\nNo final do Texto II, o trecho entre parênteses \"(os olhos nasceram e ficaram dez anos esperando que o resto do corpo nascesse)\" contém\n\nAlternativas:\nA) difamação.\nB) ironia.\nC) malícia.\nD) morbidez.\nE) timidez.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) difamação.\n\n### Explicação:\nA difama",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nTEXTO I: A vez primeira que eu fitei Teresa / Como as plantas que arrasta a correnteza, / A valsa nos levou nos giros seus... / E amamos juntos... E depois na sala / Adeus! eu disse-lhe a tremer co'a fala... / e ela, corando, murmurou-me: \"adeus\"\nTEXTO II: A primeira vez que vi Teresa / Achei que ela tinha pernas estúpidas / Achei também que a cara parecia uma perna [...]\n\nPergunta:\nComparando-se os dois textos, pode-se afirmar que\n\nAlternativas:\nA) os dois autores idealizam a mesma mulher.\nB) os dois textos apresentam idênticas percepções sobre o amor.\nC) os dois textos referem-se a uma situação de despedida.\nD) o texto II descreve a mulher em forma de fantasia.\nE) no texto I, o eu-lírico mostra-se apaixonado pela mulher.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) os dois autores idealizam a mesma mulher.\n\n### Explicação",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[...] O homem não se animou a acariciá-lo. Depois, o cão virou as costas e saiu sem destino. O homem pensou em chamá-lo, mas desistiu. Afinal, reconheceu que ele próprio tinha mudado, ou que talvez só ele mudara, e a cidade era a mesma, vista por olhos que tinham esquecido a arte de ver.\n\nPergunta:\nA tensão vivida pelo personagem decorre do fato de que ele\n\nAlternativas:\nA) não se modificou, mas o ambiente sofreu muitas transformações.\nB) permitiu que o cão Piloto o farejasse longamente, sem reconhecê-lo.\nC) abandonou Piloto porque o cão estava doente.\nD) não se animou a acariciar o cão porque esquecera o afeto.\nE) sente-se estranho em relação à sua cidade e a si mesmo.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) não se modificou, mas o ambiente sofreu muitas transformações",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "E",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[Tirinha mostrando duas cobras conversando]\nCobra 1: Prontos para o concurso de mentirosos?\nCobra 2: Pronto.\nCobra 1: Você disse que estava pronto!\nCobra 2: Mas você disse: Comece!\nCobra 1: E você acreditou?!\n\nPergunta:\nA frase com dupla pontuação no último quadrinho (\"?!\") traduz\n\nAlternativas:\nA) comprovação.\nB) exclamação.\nC) exclusão.\nD) interrogação.\nE) ironia.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) comprovação.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "E",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[Tirinha: O Rei falando ao povo]\nRei: Se algo me acontecer, Sir Rodney tomará o meu lugar.\nPovo (em uníssono): Longa vida para o Rei!\n\nPergunta:\nNos quadrinhos, pela fala do rei e pela reação do povo, depreende-se um sentimento de\n\nAlternativas:\nA) alegria pela substituição do rei.\nB) ira pelo afastamento do rei.\nC) medo da tirania de um novo rei.\nD) satisfação pela escolha do rei.\nE) união do rei com o povo.",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) alegria pela substituição do rei.\n\n### Explicação:",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nConta uma lenda árabe que um sultão sonhou ter perdido os dentes. Ao despertar, mandou chamar um adivinho para lhe interpretar o pesadelo.\n— Que desgraça, senhor! exclamou o bruxo. Cada dente caído representa a perda de um parente de Vossa Majestade!\n— Mas que insolente, gritou o sultão enfurecido. [...] Vais levar cem chicotadas.\n[...]\n\nPergunta:\nO fato que desencadeia o enredo é ter o sultão\n\nAlternativas:\nA) dado 100 moedas de ouro ao segundo adivinho.\nB) mandado aplicar 100 chicotadas no primeiro adivinho.\nC) ouvido do primeiro adivinho que perderia os parentes.\nD) ouvido do segundo adivinho que sobreviveria aos parentes.\nE) sonhado que perdeu os dentes.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) dado 100 moedas de ouro ao segundo adivinho.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[Tirinha de um homem muito enfeitado/colorido]\nHomem: Sou um homem discreto!\n\nPergunta:\nNo texto, a fala do rapaz e sua aparência mantêm uma relação de\n\nAlternativas:\nA) complementação.\nB) contradição.\nC) equivalência.\nD) harmonia.\nE) reciprocidade.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) complementação.\n\n### Explicação:\nA fala do ra",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "C",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nTEXTO I: O Brasil vive a banalização e a mercantilização do trabalho voluntário. Virou status.\nTEXTO II: Com o trabalho voluntário, minha vida mudou. Fiquei mais humano nas relações com sindicatos e funcionários no dia-a-dia profissional.\n\nPergunta:\nNa comparação dos textos I e II, depreende-se que ambos tratam do trabalho voluntário, mas diferem quanto ao significado dessa experiência, pois trabalho voluntário, no texto I,\n\nAlternativas:\nA) é essencial e, no texto II, é acessório.\nB) é importante e, no texto II, é superficial.\nC) é tratado como mercantilismo e, no texto II, como conflito pessoal.\nD) é tratado como modismo e, no texto II, como transformação pessoal.\nE) significa modificação coletiva e, no texto II, realização pessoal.",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) é essencial e, no texto II, é acessório.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "A",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[Tirinha do Papa-Capim na floresta]\nPapa-Capim: Ei, Kava! Você sabia que os caraíbas chamam Jaci de Lua... e a M'Boi de Cobra?\nKava: E aquilo, Papa-Capim? Como os caraíbas chamam aquilo? [Apontando para o desmatamento]\nPapa-Capim: Progresso!\n\nPergunta:\nPelo TEXTO I, conclui-se que os caraíbas são os\n\nAlternativas:\nA) animais.\nB) astros.\nC) chefes da tribo.\nD) homens brancos.\nE) índios.",
+    "output_esperado": "D",
+    "modelo_base": {
+      "resposta": "A) animais.\n\n### Explicação:\nO texto diz que os",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "E",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[Tirinha de um homem passando por uma placa que diz \"Cursos Informática Última Geração\"]\nHomem saindo do curso, já velho e barbudo, pensando: \"Essa linguagem já ficou obsoleta. Eu deveria ter vindo de táxi!\"\n\nPergunta:\nNo texto, o principal motivo de humor é\n\nAlternativas:\nA) a crítica aos cursos de informática que demoram para certificar os conhecimentos.\nB) a velocidade com que os conhecimentos de informática ficam ultrapassados.\nC) a crítica ao demorado serviço de transporte público oferecido nas cidades.\nD) a utilização da palavra \"obsoleta\", cuja sonoridade é diferente e engraçada.\nE) o aspecto físico do personagem, que é apresentado de modo estereotipado.",
+    "output_esperado": "B",
+    "modelo_base": {
+      "resposta": "A) a crítica aos cursos de informática que demoram para certificar os",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": true
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[Tirinha]\nQuadrinho 1: Um rato grande grita com outro rato grande: \"Rato Ruter! O seu filhote bateu nos meus filhos! Pode bater nele!\"\nQuadrinho 2: O Rato Ruter aparece todo machucado e diz: \"Bem que eu tentei\". (Mostrando que o filhote dele é muito forte/perigoso).\n\nPergunta:\nO efeito de humor está\n\nAlternativas:\nA) na expressão furiosa do Rato Ruter no primeiro quadrinho.\nB) na quantidade de ratinhos filhotes.\nC) no olho ferido de um dos ratos.\nD) no tamanho do Rato Ruter.\nE) no tamanho do filho do Rato Ruter.",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) na expressão furiosa do Rato Ruter no primeiro quadrinho",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\nPapa-capim (Texto I): [Mostra desmatamento como \"progresso\" dos brancos].\nQue progresso? (Texto II): Quando perguntamos a Mairawë Kaiabi sobre a ideia de que a soja traz progresso, ele estranha. \"Acho estranho a ideia de progresso do branco. Porque eu vejo tanto sofrimento aí nesse mundo... [...] Então, para mim isso não é progresso. O progresso pro índio não significa nada. [...]\"\n\nPergunta:\nRelacionando os textos acima, percebe-se que Papa-capim e Mairawë Kaiabi atribuem ao homem branco a busca pelo progresso. Para eles, essa ideia de 'progresso'\n\nAlternativas:\nA) ainda vai trazer boas transformações socioambientais.\nB) está associada à melhoria das condições de vida.\nC) é equivocada, pois traz muitos malefícios socioambientais.\nD) é maléfica à natureza, porém necessária à existência humana.\nE) precisa ser ensinada na escola formal para ser melhor compreendida.",
+    "output_esperado": "C",
+    "modelo_base": {
+      "resposta": "A) ainda vai trazer boas transformações socioambientais.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "B",
+      "acertou": false
+    }
+  },
+  {
+    "instruction": "Escolha a alternativa correta com base no texto.",
+    "input": "Texto:\n[Tirinha do Chico Bento olhando para árvores cortadas]\nChico Bento: Vixi! Cortaro todas as arve! Num dexaro nenhuma! Quem foi faze uma marvadeza dessa cas coitadinha? Buáá!\n\nPergunta:\nO que gerou o desespero do personagem foi o fato de ele\n\nAlternativas:\nA) estar sem sapatos.\nB) não enxergar direito.\nC) desconhecer a floresta.\nD) não gostar do passeio.\nE) ter visto árvores cortadas.",
+    "output_esperado": "E",
+    "modelo_base": {
+      "resposta": "A) estar sem sapatos.",
+      "acertou": false
+    },
+    "modelo_treinado": {
+      "resposta": "E",
+      "acertou": true
+    }
+  }
+]

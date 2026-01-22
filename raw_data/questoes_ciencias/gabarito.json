@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "resposta_correta": "C",
+    "comentario_resposta": "Habilidade: Identificar ações antrópicas que causam poluição hídrica em ambientes urbanos, relacionando o despejo irregular de lixo e efluentes à contaminação de rios."
+  },
+  {
+    "id": 2,
+    "resposta_correta": "Aberta",
+    "comentario_resposta": "Resposta esperada: Usos comuns incluem tomar banho, cozinhar alimentos, lavar roupas, etc. Medidas de economia envolvem fechar a torneira enquanto se escova os dentes ou ensaboa as mãos, reutilizar a água da máquina de lavar para limpeza, consertar vazamentos. Habilidade: Avalia a capacidade de propor soluções práticas para o uso sustentável da água."
+  },
+  {
+    "id": 3,
+    "resposta_correta": "C",
+    "comentario_resposta": "Os três projetos enfatizam práticas sustentáveis — coleta de água da chuva, reaproveitamento de materiais e substituição de descartáveis — todas ligadas ao princípio dos 3Rs (reduzir, reutilizar, reciclar). Isso é importante para preservar recursos naturais e minimizar resíduos."
+  },
+  {
+    "id": 4,
+    "resposta_correta": "B",
+    "comentario_resposta": "Habilidade: Reconhecer práticas de consumo sustentável no cotidiano escolar e seus benefícios ambientais, como a redução de resíduos e economia de recursos."
+  },
+  {
+    "id": 5,
+    "resposta_correta": "D",
+    "comentario_resposta": "A reciclagem, quando feita adequadamente, diminui a necessidade de extrair matéria-prima virgem (minérios, madeira, etc.) e reduz a poluição, pois materiais são reaproveitados em vez de descartados no ambiente."
+  },
+  {
+    "id": 6,
+    "resposta_correta": "D",
+    "comentario_resposta": "No esquema, os números 4 a 9 representavam fontes renováveis (por exemplo, biomassa, eólica, hídrica, ondas, solar, geotérmica). Já as fontes numeradas 1, 2 e 3 referiam-se a combustíveis fósseis (petróleo, carvão, gás natural), que não são renováveis."
+  },
+  {
+    "id": 7,
+    "resposta_correta": "Contextual",
+    "comentario_resposta": "Gabarito: Resposta relacionada a manter alimentação equilibrada combinada com exercícios físicos. O item exigia interpretação de texto informativo sobre nutrição (alimentação equilibrada rica em frutas/verduras, moderação de industrializados e prática de atividades físicas)."
+  },
+  {
+    "id": 8,
+    "resposta_correta": "Aberta",
+    "comentario_resposta": "Resposta esperada: Deficiências nutricionais, sobrepeso/obesidade, falta de vitaminas, cansaço excessivo, entre outros. Habilidade: Relacionar maus hábitos alimentares e sedentarismo a consequências como obesidade e falta de nutrientes."
+  },
+  {
+    "id": 9,
+    "resposta_correta": "C",
+    "comentario_resposta": "Dentre as opções, apenas a AIDS é causada por um vírus (HIV). As outras são infecções por fungos (candidíase) ou bactérias (gonorreia)."
+  },
+  {
+    "id": 10,
+    "resposta_correta": "B",
+    "comentario_resposta": "A vacina contém agentes que estimulam o sistema imunológico a produzir anticorpos específicos contra o vírus, conferindo imunidade ativa. Não se trata de fornecer anticorpos prontos (imunização passiva)."
+  },
+  {
+    "id": 11,
+    "resposta_correta": "D",
+    "comentario_resposta": "A alternativa correta no gabarito oficial indica a criação de um hábitat isolado da atividade humana, permitindo que ecossistemas se regenerem e espécies se reproduzam sem interferência."
+  },
+  {
+    "id": 12,
+    "resposta_correta": "D",
+    "comentario_resposta": "As substâncias que plantas produzem para atrair polinizadores ou predadores de pragas estabelecem relações de coevolução, beneficiando ambos os grupos."
+  },
+  {
+    "id": 13,
+    "resposta_correta": "C",
+    "comentario_resposta": "Habilidade: Reconhecer que as fases da Lua constituem um fenômeno cíclico e previsível."
+  },
+  {
+    "id": 14,
+    "resposta_correta": "A",
+    "comentario_resposta": "A Lua Crescente tem aparência em \"C\" e surge após a fase nova."
+  },
+  {
+    "id": 15,
+    "resposta_correta": "D",
+    "comentario_resposta": "A variação ocorre devido ao movimento de translação da Terra (365,24 dias) combinado com a inclinação do eixo terrestre, fazendo com que os solstícios e equinócios não caiam sempre no mesmo horário/data exata."
+  },
+  {
+    "id": 16,
+    "resposta_correta": "D",
+    "comentario_resposta": "Na maré alta, a região da Terra alinhada com a Lua (bem como a oposta) sofre maior atração gravitacional."
+  },
+  {
+    "id": 17,
+    "resposta_correta": "A",
+    "comentario_resposta": "Habilidade: Identificar a configuração geométrica de um eclipse lunar: Sol, Terra e Lua alinhados nessa ordem, com a Terra projetando sua sombra sobre a Lua."
+  },
+  {
+    "id": 18,
+    "resposta_correta": "B",
+    "comentario_resposta": "Como o subproduto é uma mistura homogênea líquida, o método correto é a destilação simples, que separa líquidos com pontos de ebulição diferentes (álcool e água)."
+  },
+  {
+    "id": 19,
+    "resposta_correta": "B",
+    "comentario_resposta": "A radiação ionizante (raios X, gama) em doses elevadas pode danificar o DNA e induzir cânceres. Ela pode causar mutações genéticas."
+  },
+  {
+    "id": 20,
+    "resposta_correta": "B",
+    "comentario_resposta": "As plantas retiram $CO_2$ da atmosfera durante a fotossíntese, incorporando-o em moléculas orgânicas."
+  },
+  {
+    "id": 21,
+    "resposta_correta": "A",
+    "comentario_resposta": "Diabetes e distúrbios da tireoide são doenças crônicas não transmissíveis. O texto destacava que são condições crônicas relacionadas ao metabolismo."
+  },
+  {
+    "id": 22,
+    "resposta_correta": "C",
+    "comentario_resposta": "A redução da camada de ozônio aumenta a penetração de UV nocivo, elevando casos de câncer de pele, catarata e suprimindo o sistema imunológico."
+  },
+  {
+    "id": 23,
+    "resposta_correta": "B",
+    "comentario_resposta": "A queima de combustíveis fósseis libera $SO_2$ e $NO_x$, que reagem com a água nas nuvens formando ácidos sulfúrico e nítrico (chuva ácida)."
+  }
+]

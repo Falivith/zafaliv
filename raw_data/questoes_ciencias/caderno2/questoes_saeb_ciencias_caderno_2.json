@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "texto_base": "Legenda 1: Registro fotográfico de um rio urbano em São Gonçalo (RJ) completamente obstruído por resíduos sólidos descartados irregularmente, evidenciando o impacto da poluição hídrica.",
+    "enunciado": "Qual alternativa indica uma ação humana que contribui para esse problema?",
+    "alternativas": {
+      "A": "Tratamento adequado de esgotos.",
+      "B": "Separação correta do lixo reciclável.",
+      "C": "Despejo de lixo e resíduos industriais nos rios.",
+      "D": "Utilização de transporte público."
+    }
+  },
+  {
+    "id": 2,
+    "texto_base": "Durante uma visita escolar a uma feira de ciências, os alunos observaram três experimentos diferentes: 1. Um grupo mostrou como captar água da chuva e usá-la para regar plantas. 2. Outro grupo apresentou brinquedos feitos com garrafas PET, papelão e tampinhas recicladas. 3. Um terceiro grupo explicou o uso de sacolas plásticas no supermercado e propôs substituí-las por sacolas reutilizáveis.",
+    "enunciado": "Com base nas apresentações, qual é a principal ideia comum entre os três grupos, e por que ela é importante para o uso sustentável dos recursos naturais?",
+    "alternativas": {
+      "A": "Mostrar que é possível brincar e se divertir sem gastar dinheiro.",
+      "B": "Ensinar como utilizar produtos industrializados no dia a dia.",
+      "C": "Destacar maneiras de reduzir o consumo e reutilizar materiais para evitar desperdício.",
+      "D": "Promover o uso da água potável em todas as situações, inclusive na limpeza de calçadas."
+    }
+  },
+  {
+    "id": 3,
+    "texto_base": "Em uma escola, os professores decidiram trocar os copos descartáveis por copos reutilizáveis e instalar torneiras com pressão temporizada nos banheiros. Além disso, os alunos passaram a usar folhas de papel dos dois lados antes de jogá-las fora.",
+    "enunciado": "Qual das alternativas abaixo explica corretamente o impacto dessas ações no meio ambiente?",
+    "alternativas": {
+      "A": "Aumentam a quantidade de lixo produzido e o consumo de energia elétrica.",
+      "B": "Reduzem o desperdício de água e de materiais, contribuindo para a preservação dos recursos naturais.",
+      "C": "Diminuem os gastos da escola, mas não trazem benefícios para a natureza.",
+      "D": "Facilitam o trabalho dos funcionários da limpeza, sem relação com o meio ambiente."
+    }
+  },
+  {
+    "id": 4,
+    "texto_base": "Legenda 3: Infográfico ilustrando o conceito de economia circular e reciclagem, demonstrando o ciclo de vida dos materiais e a redução de resíduos no meio ambiente.",
+    "enunciado": "Qual é o benefício da separação correta do lixo para reciclagem?",
+    "alternativas": {
+      "A": "Aumentar a quantidade de lixo nos aterros sanitários.",
+      "B": "Diminuir o número de coletores de lixo nas cidades.",
+      "C": "Gastar mais água no processo de tratamento de resíduos.",
+      "D": "Reduzir a extração de recursos naturais e a poluição ambiental."
+    }
+  },
+  {
+    "id": 5,
+    "texto_base": "Durante um projeto escolar, os alunos perceberam que a escola consome muitos copos plásticos por dia. Eles decidiram criar uma campanha para reduzir esse uso e propuseram algumas ações.",
+    "enunciado": "Qual das alternativas abaixo representa a solução mais eficiente e tecnológica para o problema identificado, pensando em consumo consciente e reutilização?",
+    "alternativas": {
+      "A": "Pedir aos alunos que tragam dois copos descartáveis por dia.",
+      "B": "Substituir os copos plásticos por canecas reutilizáveis para uso individual.",
+      "C": "Jogar os copos usados no lixo comum, já que são pequenos.",
+      "D": "Comprar mais copos plásticos para não faltar durante os recreios."
+    }
+  },
+  {
+    "id": 6,
+    "texto_base": "Em uma feira de ciências, quatro grupos de alunos apresentaram diferentes ideias para reduzir o lixo na escola. Grupo A: Criou um robô feito com peças recicladas que separa automaticamente papel, plástico e metal. Grupo B: Fez um cartaz pedindo para todos jogarem o lixo na lixeira comum. Grupo C: Recolheu garrafas plásticas e jogou todas no lixo orgânico. Grupo D: Sugeriu que todos parem de usar materiais escolares para não gerar lixo.",
+    "enunciado": "Qual grupo apresentou uma proposta que usa tecnologia e promove o consumo consciente?",
+    "alternativas": {
+      "A": "Grupo A",
+      "B": "Grupo B",
+      "C": "Grupo C",
+      "D": "Grupo D"
+    }
+  },
+  {
+    "id": 7,
+    "texto_base": "Legenda 4: Diagrama explicativo do Ciclo da Água, detalhando as etapas de Evaporação (dos oceanos e rios), Transpiração (plantas), Condensação (formação de nuvens), Precipitação (chuva) e Infiltração no solo.",
+    "enunciado": "O processo onde a água aquece e se transforma em vapor, subindo para a atmosfera, é chamado de:",
+    "alternativas": {
+      "A": "Condensação.",
+      "B": "Precipitação.",
+      "C": "Filtração.",
+      "D": "Evaporação."
+    }
+  },
+  {
+    "id": 8,
+    "texto_base": "O ciclo da água envolve processos contínuos de mudança de estado físico na natureza.",
+    "enunciado": "Como o ciclo da água pode afetar a agricultura em uma região que está enfrentando longos períodos sem chuva?",
+    "alternativas": {
+      "A": "Aumentando a produção agrícola, pois a falta de chuva favorece o crescimento das plantas.",
+      "B": "Reduzindo a produção agrícola, pois a falta de água compromete o crescimento das plantações.",
+      "C": "Impedindo a fotossíntese, pois sem água não há luz solar suficiente para as plantas.",
+      "D": "Aumentando a fertilidade do solo, pois o calor constante deixa o solo mais úmido."
+    }
+  },
+  {
+    "id": 9,
+    "texto_base": "Legenda 5: Vista aérea de uma usina hidrelétrica, demonstrando a importância do represamento de água para a geração de energia renovável e a dependência do regime de chuvas.",
+    "enunciado": "Se houver uma grande redução nas chuvas durante o ciclo hidrológico, o que pode acontecer com a geração de energia nas usinas hidrelétricas?",
+    "alternativas": {
+      "A": "A produção de energia aumenta, pois há menos água para movimentar as turbinas.",
+      "B": "A produção de energia continua igual, pois a água da chuva não influência nas usinas.",
+      "C": "A produção de energia pode diminuir, pois os reservatórios terão menos água.",
+      "D": "A produção de energia melhora, pois o ar seco ajuda na rotação das turbinas."
+    }
+  },
+  {
+    "id": 10,
+    "texto_base": "A Universidade de Harvard desenvolveu a \"Nova Pirâmide Alimentar\", que prioriza a atividade física, hidratação e consumo de alimentos integrais e frescos.",
+    "enunciado": "Com base nesse modelo, quais alimentos devem ser priorizados em uma alimentação saudável?",
+    "alternativas": {
+      "A": "Alimentos industrializados, produtos enlatados e itens ultraprocessados.",
+      "B": "Refrigerantes, cereais refinados, salgadinhos e alimentos empacotados.",
+      "C": "Bebidas açucaradas, carnes vermelhas gorduras e doces em geral.",
+      "D": "Cereais integrais, frutas frescas, hortaliças variadas e gorduras boas."
+    }
+  },
+  {
+    "id": 11,
+    "texto_base": "Analise o perfil de três alunos: Aluno A (consome frutas, bebe água e treina), Aluno B (consome ultraprocessados e é sedentário) e Aluno C (alimenta-se pouco, pula refeições e é sedentário).",
+    "enunciado": "Qual aluno corre mais risco de desenvolver subnutrição?",
+    "alternativas": {
+      "A": "Aluno A.",
+      "B": "Aluno B.",
+      "C": "Aluno C, por baixa ingestão de alimentos.",
+      "D": "Aluno B, porque come pouco."
+    }
+  },
+  {
+    "id": 12,
+    "texto_base": "Ana consome muitos alimentos industrializados, raramente come vegetais e passa muito tempo em frente a telas sem praticar exercícios.",
+    "enunciado": "Qual distúrbio nutricional ela pode desenvolver se continuar com esses hábitos?",
+    "alternativas": {
+      "A": "Subnutrição.",
+      "B": "Obesidade, por ter uma alimentação rica em calorias e pouco exercício físico.",
+      "C": "Anemia.",
+      "D": "Desidratação."
+    }
+  },
+  {
+    "id": 13,
+    "texto_base": "Dados de uma pesquisa escolar mostraram que a maioria dos alunos consome refrigerantes e salgadinhos diariamente e não pratica esportes.",
+    "enunciado": "Qual alternativa apresenta a melhor explicação para o surgimento de problemas nutricionais neste grupo?",
+    "alternativas": {
+      "A": "Esses hábitos indicam uma alimentação equilibrada e bastante energia.",
+      "B": "A baixa ingestão de frutas e verduras, aliada à falta de atividade física, pode levar tanto à obesidade quanto à subnutrição.",
+      "C": "Comer salgadinhos e refrigerantes todos os dias fortalece o corpo.",
+      "D": "Passar muito tempo em frente à tela ajuda o cérebro a descansar."
+    }
+  },
+  {
+    "id": 14,
+    "texto_base": "Legenda 6: Diagrama comparativo da anatomia humana evidenciando o Sistema Digestório (da boca ao ânus) e o Sistema Respiratório (vias aéreas e pulmões), destacando seus principais órgãos.",
+    "enunciado": "Os principais órgãos do sistema respiratório são:",
+    "alternativas": {
+      "A": "Nariz, traqueia e pulmões.",
+      "B": "Estômago e intestinos.",
+      "C": "Coração e veias.",
+      "D": "Rins e bexiga."
+    }
+  },
+  {
+    "id": 15,
+    "texto_base": "Pedro escreveu: \"A nutrição do corpo depende apenas dos alimentos que comemos, por isso, o sistema respiratório não participa desse processo.\"",
+    "enunciado": "Qual alternativa apresenta o melhor argumento para corrigir o erro de Pedro?",
+    "alternativas": {
+      "A": "O sistema respiratório só participa do movimento dos músculos do estômago.",
+      "B": "O sistema digestório é responsável apenas pela respiração celular.",
+      "C": "A nutrição depende tanto da digestão quanto da entrada de oxigênio, essencial para transformar nutrientes em energia.",
+      "D": "Apenas o sistema digestório é importante para a nutrição."
+    }
+  },
+  {
+    "id": 16,
+    "texto_base": "A nutrição é um processo complexo que envolve a cooperação de diferentes sistemas do corpo humano.",
+    "enunciado": "Assinale a alternativa que MELHOR explica por que os sistemas digestório e respiratório são corresponsáveis pela nutrição do corpo humano.",
+    "alternativas": {
+      "A": "O sistema respiratório leva os alimentos até o estômago.",
+      "B": "O sistema digestório transforma os alimentos em nutrientes, e o sistema respiratório fornece oxigênio para produzir energia.",
+      "C": "O sistema digestório e o sistema respiratório trabalham apenas durante o sono.",
+      "D": "Os dois sistemas são responsáveis apenas pela eliminação de substâncias inúteis."
+    }
+  },
+  {
+    "id": 17,
+    "texto_base": "Legenda 7: Ilustração do Sistema Cardiovascular humano, destacando o coração como bomba central e a rede de artérias (em vermelho) e veias (em azul) que percorre o corpo.",
+    "enunciado": "A alternativa que explica corretamente as funções do sistema circulatório é:",
+    "alternativas": {
+      "A": "Produzir os alimentos que o corpo precisa para crescer.",
+      "B": "Levar nutrientes e oxigênio para todas as partes do corpo e auxiliar na retirada dos resíduos.",
+      "C": "Oferecer auxílio ao corpo para que esse possa se movimentar.",
+      "D": "Ser responsável apenas pelo bombeamento do sangue para bater mais rápido."
+    }
+  },
+  {
+    "id": 18,
+    "texto_base": "Após uma refeição, o sistema digestório transforma os alimentos em nutrientes que precisam chegar a todas as células.",
+    "enunciado": "Para que as células recebam esses nutrientes, é necessário que:",
+    "alternativas": {
+      "A": "O sistema respiratório os transforme em oxigênio.",
+      "B": "O sistema nervoso envie comandos para as células se alimentarem sozinhas.",
+      "C": "O sistema circulatório transporte os nutrientes através do sangue.",
+      "D": "Os músculos empurrem os nutrientes até os órgãos."
+    }
+  },
+  {
+    "id": 22,
+    "id": 19,
+    "texto_base": "João disse que, depois da digestão, os nutrientes vão para o sangue e são levados para todas as partes do corpo.",
+    "enunciado": "Ele está certo? E qual o papel do sistema circulatório nesse processo?",
+    "alternativas": {
+      "A": "Sim, João está certo. O sistema circulatório leva os nutrientes pelo corpo e também ajuda a eliminar resíduos.",
+      "B": "Não, João está errado. Os nutrientes ficam no estômago até serem usados.",
+      "C": "Sim, João está certo. Mas os nutrientes são levados apenas para o coração.",
+      "D": "Não, João está errado. O sangue não participa desse processo."
+    }
+  },
+  {
+    "id": 20,
+    "texto_base": "Legenda 8: Ilustração de uma criança observando o pôr do sol no horizonte, representando o movimento aparente dos astros no céu.",
+    "enunciado": "João percebeu que o Sol aparece em um lado do céu de manhã e se põe do lado oposto. Esse movimento aparente acontece porque:",
+    "alternativas": {
+      "A": "O Sol gira ao redor da Terra.",
+      "B": "A Lua gira ao redor do Sol.",
+      "C": "A Terra gira ao redor do Sol.",
+      "D": "A Terra gira em torno de si mesma (rotação)."
+    }
+  },
+  {
+    "id": 21,
+    "texto_base": "O planeta Terra realiza diversos movimentos no espaço simultaneamente.",
+    "enunciado": "Se a Terra não realizasse o movimento de rotação, o que provavelmente aconteceria?",
+    "alternativas": {
+      "A": "O Sol se moveria mais rápido no céu.",
+      "B": "O movimento de translação ocorreria melhor.",
+      "C": "Um lado da Terra ficaria sempre claro, e o outro sempre escuro.",
+      "D": "As estrelas deixariam de existir."
+    }
+  },
+  {
+    "id": 22,
+    "texto_base": "Legenda 9: Modelo esquemático da Terra em relação aos raios solares, demonstrando como a inclinação e a rotação geram a alternância entre dia e noite.",
+    "enunciado": "O movimento de rotação da Terra é responsável por:",
+    "alternativas": {
+      "A": "As fases da Lua.",
+      "B": "As estações do ano.",
+      "C": "O movimento aparente do Sol e das estrelas no céu.",
+      "D": "A formação dos continentes."
+    }
+  },
+  {
+    "id": 23,
+    "texto_base": "Legenda 10: Estudante em ambiente escolar utilizando uma luneta artesanal para observação astronômica, exemplificando o uso de lentes para ampliação de imagens distantes.",
+    "enunciado": "Esse instrumento (luneta) serve para:",
+    "alternativas": {
+      "A": "Medir a temperatura da Lua.",
+      "B": "Observar objetos muito pequenos.",
+      "C": "Ampliar a imagem de objetos distantes.",
+      "D": "Fotografar objetos debaixo d'água."
+    }
+  },
+  {
+    "id": 24,
+    "texto_base": "Maria usou uma lupa para observar uma folha e depois uma máquina fotográfica para registrar a imagem.",
+    "enunciado": "Esses dois dispositivos têm finalidades diferentes, mas ambos são usados para:",
+    "alternativas": {
+      "A": "Projetar imagens de objetos no espaço.",
+      "B": "Ampliar objetos para serem observados à distância.",
+      "C": "Registrar e ampliar imagens de forma automática.",
+      "D": "Melhorar a observação de detalhes que não são visíveis a olho nu."
+    }
+  },
+  {
+    "id": 25,
+    "texto_base": "Legenda 11: Ilustração didática das quatro fases principais da Lua (Nova, Crescente, Cheia e Minguante) conforme visualizadas do Hemisfério Sul.",
+    "enunciado": "A fase da Lua ilustrada (face visível toda iluminada) é a:",
+    "alternativas": {
+      "A": "Nova.",
+      "B": "Cheia.",
+      "C": "Minguante.",
+      "D": "Crescente."
+    }
+  },
+  {
+    "id": 26,
+    "texto_base": "Legenda 12: Diagrama do ciclo lunar completo, mostrando a transição entre as oito fases, demonstrando a periodicidade de aproximadamente 29,5 dias.",
+    "enunciado": "Depois de algum tempo, a Lua volta a apresentar a mesma forma no céu. O que essa observação mostra?",
+    "alternativas": {
+      "A": "Que a Lua muda de forma por causa do Sol girando ao redor da Terra.",
+      "B": "Que as fases da Lua acontecem de forma aleatória.",
+      "C": "Que as fases da Lua seguem uma ordem e se repetem em um ciclo regular.",
+      "D": "Que a Lua muda de cor conforme o tempo passa."
+    }
+  },
+  {
+    "id": 27,
+    "texto_base": "Legenda 13: Representação visual da Lua em sua fase Quarto Crescente, assemelhando-se a um arco ou à letra \"C\" no céu noturno.",
+    "enunciado": "Nesta fase, apenas uma parte do lado iluminado começa a aparecer após a Lua nova, indicando que ela se aproxima da fase cheia. Esta é a fase:",
+    "alternativas": {
+      "A": "Crescente.",
+      "B": "Cheia.",
+      "C": "Minguante.",
+      "D": "Nova."
+    }
+  }
+]

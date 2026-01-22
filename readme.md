@@ -5,7 +5,7 @@ The project is designed for testing different components independently — retri
 
 ---
 
-## ✨ Features
+## Features
 
 - **Vector Store with Qdrant (embedded mode)**
   - Fast similarity search
