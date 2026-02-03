@@ -37,7 +37,7 @@ def format_example(example):
 
 
 def load_model(args):
-    print(f"▶ Loading model ({args.mode} mode): {args.model_id}")
+    print(f"Loading model ({args.mode} mode): {args.model_id}")
 
     if args.mode == "remote":
         model = AutoModelForCausalLM.from_pretrained(
@@ -82,8 +82,12 @@ def main():
     model = maybe_apply_lora(model, args)
 
     print("Loading dataset")
-    dataset = load_dataset("json", data_files=args.data_path)["train"]
-    dataset = dataset.map(format_example)
+    
+    raw_dataset = load_dataset("json", data_files=args.data_path)["train"]
+    split = raw_dataset.train_test_split(test_size=0.2, seed=42)
+
+    train_dataset = split["train"].map(format_example)
+    test_dataset  = split["test"].map(format_example)
 
     sft_config = SFTConfig(
         output_dir=args.output_dir,
@@ -104,7 +108,7 @@ def main():
     trainer = SFTTrainer(
         model=model,
         args=sft_config,
-        train_dataset=dataset,
+        train_dataset=train_dataset,
     )
 
     print("Starting training")
