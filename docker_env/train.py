@@ -1,7 +1,7 @@
 import argparse
 import torch
 from datasets import load_dataset
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from peft import LoraConfig, get_peft_model
 from trl import SFTTrainer, SFTConfig
 
@@ -40,11 +40,18 @@ def load_model(args):
     print(f"Loading model ({args.mode} mode): {args.model_id}")
 
     if args.mode == "remote":
+        bnb_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_compute_dtype=torch.bfloat16,
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_quant_type="nf4",
+        )
+
         model = AutoModelForCausalLM.from_pretrained(
             args.model_id,
-            load_in_4bit=True,
             device_map="auto",
-            torch_dtype=torch.bfloat16
+            quantization_config=bnb_config,
+            torch_dtype=torch.bfloat16,
         )
     else:
         model = AutoModelForCausalLM.from_pretrained(args.model_id)
