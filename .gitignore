@@ -1,3 +1,23 @@
 .venv
 __pycache__
 qdrant_data/
+
+# Python caches and local envs
+*.pyc
+.pytest_cache/
+**/__pycache__/
+**/.venv/
+
+# Hugging Face / fine-tuning artifacts
+experiments/artifacts/
+fine_tuning/results/
+fine_tuning/*-finetuned/
+
+# Checkpoints and adapter weights
+**/checkpoint-*/
+**/adapter_model.safetensors
+**/optimizer.pt
+**/scheduler.pt
+**/rng_state.pth
+**/training_args.bin
+**/trainer_state.json
