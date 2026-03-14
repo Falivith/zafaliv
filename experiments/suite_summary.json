@@ -1,0 +1,175 @@
+{
+  "_comments": {
+    "models": "Lista dos modelos avaliados na suite.",
+    "seeds": "Lista das seeds usadas para repetir os experimentos com diferentes sorteios de split/inicializacao.",
+    "aggregate_summary": "Resumo agregado por modelo, combinando os resultados de todas as execucoes desse modelo.",
+    "aggregate_summary_fields": {
+      "num_runs": "Quantidade de execucoes agregadas para aquele modelo.",
+      "mean_test_accuracy_before": "Media da acuracia no conjunto de teste antes do fine-tuning.",
+      "mean_test_accuracy_after": "Media da acuracia no conjunto de teste depois do fine-tuning.",
+      "mean_delta_test_accuracy": "Media do ganho/perda de acuracia no teste: after - before.",
+      "runs_with_positive_delta": "Quantas execucoes tiveram melhora de acuracia apos o fine-tuning."
+    },
+    "runs": "Lista com o resultado detalhado de cada execucao individual.",
+    "run_fields": {
+      "model_alias": "Nome curto usado pelo pipeline para identificar o modelo.",
+      "model_id": "Identificador completo do modelo no Hugging Face.",
+      "seed": "Seed usada para reproducao do split e do treino.",
+      "train_count": "Quantidade de exemplos usados no treino.",
+      "test_count": "Quantidade de exemplos usados no teste.",
+      "baseline_test_accuracy": "Acuracia do modelo base no teste, antes do fine-tuning.",
+      "finetuned_test_accuracy": "Acuracia do modelo ajustado com LoRA no teste.",
+      "delta_test_accuracy": "Diferenca entre a acuracia depois e antes do fine-tuning.",
+      "baseline_test_correct": "Numero de questoes corretas no teste antes do fine-tuning.",
+      "finetuned_test_correct": "Numero de questoes corretas no teste depois do fine-tuning.",
+      "baseline_test_answer_rate": "Proporcao de exemplos em que o modelo base devolveu uma alternativa reconhecivel entre A e E.",
+      "finetuned_test_answer_rate": "Proporcao de exemplos em que o modelo ajustado devolveu uma alternativa reconhecivel entre A e E.",
+      "training_summary": "Resumo das metricas e configuracoes observadas durante o treino do adapter."
+    },
+    "training_summary_fields": {
+      "train_metrics": "Metricas brutas retornadas pelo trainer ao fim do treino.",
+      "eval_metrics": "Metricas de validacao. Fica vazio quando nao existe split de validacao.",
+      "best_model_checkpoint": "Checkpoint escolhido como melhor durante a validacao. Fica null quando nao ha validacao.",
+      "trainable_params": "Quantidade total de parametros e quantos deles ficaram treinaveis no setup LoRA.",
+      "effective_train_examples": "Quantidade efetiva de exemplos de treino usados pelo trainer.",
+      "expected_train_steps": "Numero esperado de passos de otimização, considerando epocas, batch size e gradient accumulation."
+    },
+    "train_metrics_fields": {
+      "train_runtime": "Tempo total de treino em segundos.",
+      "train_samples_per_second": "Taxa media de exemplos processados por segundo no treino.",
+      "train_steps_per_second": "Taxa media de passos de treino por segundo.",
+      "total_flos": "Estimativa do total de operacoes de ponto flutuante executadas durante o treino.",
+      "train_loss": "Loss final reportada pelo trainer ao fim do treino."
+    },
+    "trainable_params_fields": {
+      "total": "Numero total de parametros do modelo ja com a estrutura carregada.",
+      "trainable": "Numero de parametros realmente atualizados no fine-tuning, normalmente os do adapter LoRA."
+    }
+  },
+  "models": [
+    "qwen2.5-1.5b",
+    "gemma-3-1b",
+    "amadeus-verbo-1.5b"
+  ],
+  "seeds": [
+    42
+  ],
+  "aggregate_summary": {
+    "qwen2.5-1.5b": {
+      "num_runs": 1,
+      "mean_test_accuracy_before": 0.45454545454545453,
+      "mean_test_accuracy_after": 0.7272727272727273,
+      "mean_delta_test_accuracy": 0.27272727272727276,
+      "runs_with_positive_delta": 1
+    },
+    "gemma-3-1b": {
+      "num_runs": 1,
+      "mean_test_accuracy_before": 0.45454545454545453,
+      "mean_test_accuracy_after": 0.18181818181818182,
+      "mean_delta_test_accuracy": -0.2727272727272727,
+      "runs_with_positive_delta": 0
+    },
+    "amadeus-verbo-1.5b": {
+      "num_runs": 1,
+      "mean_test_accuracy_before": 0.18181818181818182,
+      "mean_test_accuracy_after": 0.09090909090909091,
+      "mean_delta_test_accuracy": -0.09090909090909091,
+      "runs_with_positive_delta": 0
+    }
+  },
+  "runs": [
+    {
+      "model_alias": "qwen2.5-1.5b",
+      "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "seed": 42,
+      "train_count": 38,
+      "test_count": 11,
+      "baseline_test_accuracy": 0.45454545454545453,
+      "finetuned_test_accuracy": 0.7272727272727273,
+      "delta_test_accuracy": 0.27272727272727276,
+      "baseline_test_correct": 5,
+      "finetuned_test_correct": 8,
+      "baseline_test_answer_rate": 1.0,
+      "finetuned_test_answer_rate": 1.0,
+      "training_summary": {
+        "train_metrics": {
+          "train_runtime": 216.8545,
+          "train_samples_per_second": 1.402,
+          "train_steps_per_second": 0.184,
+          "total_flos": 632660185178112.0,
+          "train_loss": 1.6172456443309784
+        },
+        "eval_metrics": {},
+        "best_model_checkpoint": null,
+        "trainable_params": {
+          "total": 907081216,
+          "trainable": 18464768
+        },
+        "effective_train_examples": 38,
+        "expected_train_steps": 38
+      }
+    },
+    {
+      "model_alias": "gemma-3-1b",
+      "model_id": "google/gemma-3-1b-it",
+      "seed": 42,
+      "train_count": 38,
+      "test_count": 11,
+      "baseline_test_accuracy": 0.45454545454545453,
+      "finetuned_test_accuracy": 0.18181818181818182,
+      "delta_test_accuracy": -0.2727272727272727,
+      "baseline_test_correct": 5,
+      "finetuned_test_correct": 2,
+      "baseline_test_answer_rate": 1.0,
+      "finetuned_test_answer_rate": 1.0,
+      "training_summary": {
+        "train_metrics": {
+          "train_runtime": 247.2387,
+          "train_samples_per_second": 1.23,
+          "train_steps_per_second": 0.162,
+          "total_flos": 309959260194816.0,
+          "train_loss": 2.107330393791199
+        },
+        "eval_metrics": {},
+        "best_model_checkpoint": null,
+        "trainable_params": {
+          "total": 664050816,
+          "trainable": 13045760
+        },
+        "effective_train_examples": 38,
+        "expected_train_steps": 38
+      }
+    },
+    {
+      "model_alias": "amadeus-verbo-1.5b",
+      "model_id": "amadeusai/Amadeus-Verbo-BI-Qwen-2.5-1.5B-PT-BR-Instruct-Experimental",
+      "seed": 42,
+      "train_count": 38,
+      "test_count": 11,
+      "baseline_test_accuracy": 0.18181818181818182,
+      "finetuned_test_accuracy": 0.09090909090909091,
+      "delta_test_accuracy": -0.09090909090909091,
+      "baseline_test_correct": 2,
+      "finetuned_test_correct": 1,
+      "baseline_test_answer_rate": 1.0,
+      "finetuned_test_answer_rate": 0.09090909090909091,
+      "training_summary": {
+        "train_metrics": {
+          "train_runtime": 215.5462,
+          "train_samples_per_second": 1.41,
+          "train_steps_per_second": 0.186,
+          "total_flos": 632660185178112.0,
+          "train_loss": 1.7406239926815033
+        },
+        "eval_metrics": {},
+        "best_model_checkpoint": null,
+        "trainable_params": {
+          "total": 907081216,
+          "trainable": 18464768
+        },
+        "effective_train_examples": 38,
+        "expected_train_steps": 38
+      }
+    }
+  ]
+}
